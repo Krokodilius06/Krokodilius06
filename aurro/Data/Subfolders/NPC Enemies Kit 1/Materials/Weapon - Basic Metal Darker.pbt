@@ -2,7 +2,7 @@ Assets {
   Id: 12594132148813961072
   Name: "Weapon - Basic Metal Darker"
   PlatformAssetType: 13
-  SerializationVersion: 85
+  SerializationVersion: 89
   CustomMaterialAsset {
     BaseMaterialId: 4289160600405295316
     ParameterOverrides {

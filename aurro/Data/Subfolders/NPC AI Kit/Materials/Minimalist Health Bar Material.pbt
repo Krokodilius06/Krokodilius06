@@ -2,7 +2,7 @@ Assets {
   Id: 13097573441822961134
   Name: "Minimalist Health Bar Material"
   PlatformAssetType: 13
-  SerializationVersion: 85
+  SerializationVersion: 89
   CustomMaterialAsset {
     BaseMaterialId: 5351428073291024820
     ParameterOverrides {

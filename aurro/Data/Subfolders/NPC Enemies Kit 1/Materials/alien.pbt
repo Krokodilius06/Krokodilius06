@@ -2,7 +2,7 @@ Assets {
   Id: 3006614156690046903
   Name: "alien"
   PlatformAssetType: 13
-  SerializationVersion: 85
+  SerializationVersion: 89
   CustomMaterialAsset {
     BaseMaterialId: 17516850920054914043
     ParameterOverrides {

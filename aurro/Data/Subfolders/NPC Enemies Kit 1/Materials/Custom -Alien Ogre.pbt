@@ -2,7 +2,7 @@ Assets {
   Id: 15218591069582877004
   Name: "Custom -Alien Ogre"
   PlatformAssetType: 13
-  SerializationVersion: 85
+  SerializationVersion: 89
   CustomMaterialAsset {
     BaseMaterialId: 6899199347189866619
     ParameterOverrides {

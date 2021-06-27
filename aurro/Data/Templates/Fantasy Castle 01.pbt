@@ -43996,5 +43996,5 @@ Assets {
       AssetId: "Fantasy_Castle_01"
     }
   }
-  SerializationVersion: 85
+  SerializationVersion: 89
 }

@@ -2,7 +2,7 @@ Assets {
   Id: 7516878191291482248
   Name: "Metal - Dark - Custom Base Material from Fantasy Axe Blade 01"
   PlatformAssetType: 13
-  SerializationVersion: 85
+  SerializationVersion: 89
   CustomMaterialAsset {
     BaseMaterialId: 17559028510925347446
     ParameterOverrides {

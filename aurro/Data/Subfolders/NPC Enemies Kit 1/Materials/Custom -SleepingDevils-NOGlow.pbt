@@ -2,7 +2,7 @@ Assets {
   Id: 7730803488568684688
   Name: "Custom -SleepingDevils-NOGlow"
   PlatformAssetType: 13
-  SerializationVersion: 85
+  SerializationVersion: 89
   CustomMaterialAsset {
     BaseMaterialId: 13542265519619239198
     ParameterOverrides {

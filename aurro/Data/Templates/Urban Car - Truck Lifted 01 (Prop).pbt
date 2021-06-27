@@ -6935,5 +6935,5 @@ Assets {
       AssetId: "Urban_Car_-_Truck_Lifted_01__Prop_"
     }
   }
-  SerializationVersion: 85
+  SerializationVersion: 89
 }

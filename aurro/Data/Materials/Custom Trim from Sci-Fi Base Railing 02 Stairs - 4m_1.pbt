@@ -2,7 +2,7 @@ Assets {
   Id: 7452745893464701170
   Name: "Custom Trim from Sci-Fi Base Railing 02 Stairs - 4m_1"
   PlatformAssetType: 13
-  SerializationVersion: 85
+  SerializationVersion: 89
   CustomMaterialAsset {
     BaseMaterialId: 13724869356411353249
     ParameterOverrides {

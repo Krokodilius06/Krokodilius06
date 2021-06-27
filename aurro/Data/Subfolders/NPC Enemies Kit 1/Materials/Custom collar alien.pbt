@@ -2,7 +2,7 @@ Assets {
   Id: 9949002209139585012
   Name: "Custom collar alien"
   PlatformAssetType: 13
-  SerializationVersion: 85
+  SerializationVersion: 89
   CustomMaterialAsset {
     BaseMaterialId: 17674473342946487607
     ParameterOverrides {

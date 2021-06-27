@@ -193,6 +193,7 @@ Assets {
             }
           }
           Canvas {
+            Opacity: 1
           }
           AnchorLayout {
             SelfAnchor {
@@ -244,6 +245,7 @@ Assets {
             }
           }
           Panel {
+            Opacity: 1
           }
           AnchorLayout {
             SelfAnchor {
@@ -332,5 +334,5 @@ Assets {
       AssetId: "Compass"
     }
   }
-  SerializationVersion: 85
+  SerializationVersion: 89
 }

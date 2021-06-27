@@ -14,411 +14,22 @@ Objects {
       Z: 1
     }
   }
+  ChildIds: 4286672273751396438
   ChildIds: 7367735074338159388
   ChildIds: 16813558807825262224
-  ChildIds: 14713340454944924967
-  ChildIds: 6428492774700803031
-  ChildIds: 10977786187141630888
-  ChildIds: 14469096338472747305
-  ChildIds: 17971054361903483932
-  ChildIds: 13960647668216649672
-  ChildIds: 5767622458030746334
-  ChildIds: 13347571356570597580
-  ChildIds: 8573217413690260759
-  ChildIds: 11230582755012429386
-  ChildIds: 12357684465015450609
-  ChildIds: 12904803527475686636
-  ChildIds: 8880474742293933250
-  ChildIds: 173682819329282839
-  ChildIds: 17899644140545601410
-  ChildIds: 8940117186944230148
-  ChildIds: 15027568575010573568
-  ChildIds: 6765677341709429398
-  ChildIds: 11673532111277336123
-  ChildIds: 13667320073302952571
-  ChildIds: 4780851843930461147
-  ChildIds: 9781110355153662006
-  ChildIds: 4388312621189957723
-  ChildIds: 14948303400491336846
-  ChildIds: 1895787918886254115
-  ChildIds: 2782631498900404891
-  ChildIds: 16694669422465350886
-  ChildIds: 17647193109860645463
-  ChildIds: 3615416133435312648
-  ChildIds: 6682694748771492649
-  ChildIds: 9600992757966644876
-  ChildIds: 453212968354731415
-  ChildIds: 4648337977101238626
-  ChildIds: 8929849280668774533
-  ChildIds: 10093069029706741973
-  ChildIds: 7382262609330422926
-  ChildIds: 6557321153520701264
-  ChildIds: 1983856608532078390
-  ChildIds: 2774980057467399730
-  ChildIds: 7120510161713029620
-  ChildIds: 16385703522487258639
-  ChildIds: 16221556090426771757
-  ChildIds: 2374416494570215987
-  ChildIds: 15912478680403322907
-  ChildIds: 4486250664131686534
-  ChildIds: 10252203697940784753
-  ChildIds: 3731011799401397011
-  ChildIds: 11002952602821104559
-  ChildIds: 1963968687802016355
-  ChildIds: 16959846108992945814
-  ChildIds: 15600163310697923900
-  ChildIds: 443467123339003116
-  ChildIds: 3001413172434829997
-  ChildIds: 164096715332144626
-  ChildIds: 9766897223197160666
-  ChildIds: 11892580045490192914
-  ChildIds: 16868028031278652290
-  ChildIds: 12030332366279829980
-  ChildIds: 12941749171880288814
-  ChildIds: 15437277954206597956
-  ChildIds: 17055187799111200037
-  ChildIds: 15858612235615939116
-  ChildIds: 6386769624731898994
-  ChildIds: 7734583272920557014
-  ChildIds: 12525992028611129111
-  ChildIds: 11033758194270456412
-  ChildIds: 7539244345933408256
-  ChildIds: 2270296949262197550
-  ChildIds: 2749628316299335745
-  ChildIds: 3572154995958929206
-  ChildIds: 12098290233399611311
-  ChildIds: 6772405809832277476
-  ChildIds: 5589393078653968057
-  ChildIds: 5581686537746311323
-  ChildIds: 1781041315644559204
-  ChildIds: 14780843891415667454
-  ChildIds: 6783894615121165825
-  ChildIds: 5154874906664414584
-  ChildIds: 9655529455986846777
-  ChildIds: 2662737833394308208
-  ChildIds: 7969852043889839294
-  ChildIds: 1899097842538792737
-  ChildIds: 6400546003208569802
-  ChildIds: 7513504387346156685
-  ChildIds: 17335165792064396635
-  ChildIds: 3018237587022897537
-  ChildIds: 13052960272433511022
-  ChildIds: 18375948223944949784
-  ChildIds: 14357719312060409865
-  ChildIds: 16915503399935737532
-  ChildIds: 17170147068481108847
-  ChildIds: 18111116600050359333
-  ChildIds: 9119274916438306043
-  ChildIds: 4935702669004134131
-  ChildIds: 14443905960150150568
-  ChildIds: 29484220120275796
-  ChildIds: 15526213639701316592
-  ChildIds: 17274396982248610769
-  ChildIds: 3882721369435527302
-  ChildIds: 9970811151824249841
-  ChildIds: 4349804965323065322
-  ChildIds: 3540826502846433228
-  ChildIds: 18277361183645621756
-  ChildIds: 3817737124090847909
-  ChildIds: 3765581432689908047
-  ChildIds: 11685743319004098325
-  ChildIds: 13382780725133814999
-  ChildIds: 15321989411416694757
-  ChildIds: 17029032714421989472
-  ChildIds: 16073252777299160255
-  ChildIds: 15489593416048139552
-  ChildIds: 10873570424039588716
-  ChildIds: 10643017940812075068
-  ChildIds: 17208159667267571898
-  ChildIds: 781454870834989731
-  ChildIds: 173099409212854387
-  ChildIds: 11716504883168687641
-  ChildIds: 1351297403780440246
-  ChildIds: 17466938541791578067
-  ChildIds: 6202257978119643658
-  ChildIds: 17406666289409956806
-  ChildIds: 7200554222845917772
-  ChildIds: 8112129802590394478
-  ChildIds: 16163773896572036361
-  ChildIds: 11668772011418538276
-  ChildIds: 7674276696137647836
-  ChildIds: 10860315361424067027
-  ChildIds: 17457310108435736789
-  ChildIds: 13009904057983602543
-  ChildIds: 17637033996139104723
-  ChildIds: 7058111444488393993
-  ChildIds: 201209540518857416
-  ChildIds: 12098991025988891749
-  ChildIds: 3557068082342124189
-  ChildIds: 8297557317482171464
-  ChildIds: 10734886269855658049
-  ChildIds: 17717626307618681202
-  ChildIds: 17322158701422986054
-  ChildIds: 15537040523726118015
-  ChildIds: 10681329126306332976
-  ChildIds: 10072648468780975992
-  ChildIds: 3980873347878521553
-  ChildIds: 16892850286367810590
-  ChildIds: 7321229499145028670
-  ChildIds: 14859586191848927479
-  ChildIds: 12217626365482959418
-  ChildIds: 7046346471179504303
-  ChildIds: 18030162223039676925
-  ChildIds: 7634526814974231926
-  ChildIds: 11552182757657613736
-  ChildIds: 7072120607598515536
-  ChildIds: 7041063876045158124
   ChildIds: 6109508241878678214
   ChildIds: 608352661108293274
-  ChildIds: 17331941073860765348
-  ChildIds: 9514333771922914361
-  ChildIds: 3292995780787373136
-  ChildIds: 3437791451321323891
-  ChildIds: 6068214547443290126
-  ChildIds: 15614036820299860705
-  ChildIds: 5841843457557699912
-  ChildIds: 8662723278739635928
-  ChildIds: 2584539210531712093
-  ChildIds: 9640775915465926171
-  ChildIds: 12750940904208296329
-  ChildIds: 4062841647402860123
-  ChildIds: 14661716458626039816
-  ChildIds: 12300959270887052648
-  ChildIds: 7924120732557571411
-  ChildIds: 11613588159655461101
-  ChildIds: 5799027212612528558
-  ChildIds: 8449950061749491812
-  ChildIds: 16405470719182913323
-  ChildIds: 27987847385944351
-  ChildIds: 2116466740288642757
-  ChildIds: 15691761491003051620
-  ChildIds: 13486167179127005801
-  ChildIds: 8016030347674521726
-  ChildIds: 10711076394389364268
-  ChildIds: 16744444062765872065
-  ChildIds: 15947803491482575554
-  ChildIds: 8991352009349859595
-  ChildIds: 6831393809673398110
-  ChildIds: 9393892090688571230
-  ChildIds: 7661403017470562605
+  ChildIds: 14713340454944924967
   ChildIds: 14256518743401566359
-  ChildIds: 11886535144739933519
-  ChildIds: 1968397354190525484
-  ChildIds: 11598071457568499221
-  ChildIds: 10077246773572531617
-  ChildIds: 689715905076685089
-  ChildIds: 5088999040160987865
-  ChildIds: 1394830911245063950
-  ChildIds: 1433444998510626321
-  ChildIds: 3664386906946808681
-  ChildIds: 8489047435172585323
-  ChildIds: 14074256215681155232
-  ChildIds: 2414005323852668976
-  ChildIds: 12588929196828940692
-  ChildIds: 6404332452429035734
-  ChildIds: 13862492078006354473
-  ChildIds: 10377025174875917319
-  ChildIds: 18103199052016798002
-  ChildIds: 5868743554593250699
-  ChildIds: 8279404349845089581
-  ChildIds: 2360008480357359429
-  ChildIds: 4626110550685184076
-  ChildIds: 1856404019156301326
-  ChildIds: 13221121015779389457
-  ChildIds: 2764354479575766735
-  ChildIds: 4037889697982981970
-  ChildIds: 2610067097987603434
-  ChildIds: 16924256996815400440
-  ChildIds: 12408668646316921572
-  ChildIds: 16423599249708060101
-  ChildIds: 7630058786020255714
-  ChildIds: 2479743595446686767
-  ChildIds: 7253505047781076492
-  ChildIds: 11156768121937801422
-  ChildIds: 5524650671265319801
-  ChildIds: 3031762712812575701
-  ChildIds: 12336535114176266545
-  ChildIds: 13378963676698611428
-  ChildIds: 13761353126622343270
-  ChildIds: 8663449135692671632
-  ChildIds: 13981546839999136710
-  ChildIds: 7964167522014288358
-  ChildIds: 9403450893705854328
-  ChildIds: 2924252563349469127
-  ChildIds: 12545609099202300305
-  ChildIds: 2675004970872711288
-  ChildIds: 2169886806298398585
-  ChildIds: 2264121543028049469
-  ChildIds: 15896745099974622051
-  ChildIds: 16235509818800810638
-  ChildIds: 6595997126423151955
-  ChildIds: 11707441155861380486
-  ChildIds: 8499042242699213014
-  ChildIds: 10481251988980664273
-  ChildIds: 4205205550025505614
-  ChildIds: 15591925152896688937
-  ChildIds: 15518089942806486269
-  ChildIds: 3904098553325661967
-  ChildIds: 4036245016305030188
-  ChildIds: 10924191144720582978
-  ChildIds: 8860434210024857685
-  ChildIds: 12228519031036958652
-  ChildIds: 13852702242873549260
-  ChildIds: 12374125831536218155
-  ChildIds: 8289473698308116783
-  ChildIds: 15689588297353403313
-  ChildIds: 6552539682729322290
-  ChildIds: 5245381200268139178
-  ChildIds: 6619467824290059384
-  ChildIds: 12182217235541662540
-  ChildIds: 2659290343920619411
-  ChildIds: 18009917405251730850
-  ChildIds: 10582361548584075456
-  ChildIds: 1448396382433425485
-  ChildIds: 3504359219016040572
-  ChildIds: 7690490376167117714
-  ChildIds: 12229732925998311416
-  ChildIds: 7539392040194384890
-  ChildIds: 4947928732327256908
-  ChildIds: 12593408322642129969
-  ChildIds: 18045645937109700053
-  ChildIds: 8979707167989042083
-  ChildIds: 5874216264671756218
-  ChildIds: 3819664798419147848
-  ChildIds: 11992419921010110672
-  ChildIds: 8147021878822885249
-  ChildIds: 1453463645237387922
-  ChildIds: 15640584838038716251
-  ChildIds: 1691344416888919821
-  ChildIds: 4143104263733227415
-  ChildIds: 1012291742832692255
-  ChildIds: 4348801185054564458
-  ChildIds: 9580891149743781520
-  ChildIds: 8025034610236621205
-  ChildIds: 1508584456897175039
-  ChildIds: 9480988578618411942
-  ChildIds: 8310234774847978462
-  ChildIds: 11445598740759771995
-  ChildIds: 6972934667214304779
-  ChildIds: 17606765993835011623
-  ChildIds: 5793108688047581710
-  ChildIds: 16715910809516301290
-  ChildIds: 17266581553828157872
-  ChildIds: 17228257349525111321
-  ChildIds: 13220753076230482802
-  ChildIds: 11042440945499869712
-  ChildIds: 8174377970672108878
-  ChildIds: 15221447872479505143
-  ChildIds: 10506731744247299648
-  ChildIds: 17129892754240669698
-  ChildIds: 2278467129811050945
-  ChildIds: 3661026860338563763
-  ChildIds: 5773456299838647147
-  ChildIds: 12604130464625093473
-  ChildIds: 14284603831505098070
-  ChildIds: 16289768959198998090
-  ChildIds: 5947151080018624640
-  ChildIds: 5922841928288577348
-  ChildIds: 14784104036663800875
-  ChildIds: 2915646626825340482
-  ChildIds: 3431170671198741518
-  ChildIds: 17958606138439564179
-  ChildIds: 8151234956633431298
-  ChildIds: 13277451332804438273
-  ChildIds: 9170914494183405871
-  ChildIds: 3627483448082320400
-  ChildIds: 1411140831623006948
-  ChildIds: 836715913339067399
-  ChildIds: 975208580393825336
-  ChildIds: 18015614195767038814
-  ChildIds: 11358160975808969226
-  ChildIds: 15254444991685921831
-  ChildIds: 15105302167631850387
-  ChildIds: 8431081122647598839
-  ChildIds: 13583766215210082356
-  ChildIds: 1500517126925507619
-  ChildIds: 1402272526251395168
-  ChildIds: 3324119473660683231
-  ChildIds: 7703732593398370854
-  ChildIds: 6493954330284445213
-  ChildIds: 10196122558809442242
-  ChildIds: 17663067638546757220
-  ChildIds: 17103644688497670868
-  ChildIds: 431943546782089877
-  ChildIds: 10150028001724262439
-  ChildIds: 17786633822146648992
-  ChildIds: 11273352112245204300
-  ChildIds: 1642886867222690066
-  ChildIds: 11978378136685403285
-  ChildIds: 3477910309531277659
-  ChildIds: 7939418986209180392
-  ChildIds: 9069844709539696889
-  ChildIds: 525839962172638031
-  ChildIds: 11871934772397953227
-  ChildIds: 480227883184256501
-  ChildIds: 8934388188262700750
-  ChildIds: 13010494953643730133
-  ChildIds: 18422989256907028700
-  ChildIds: 7178589895343697583
-  ChildIds: 12729127344646434335
-  ChildIds: 8710298446820238575
-  ChildIds: 7272279494380984948
-  ChildIds: 2071008506364094116
-  ChildIds: 13573578954657113688
-  ChildIds: 11673257392995494077
-  ChildIds: 8687759738925086697
-  ChildIds: 847087423355406441
-  ChildIds: 4072507252656387777
-  ChildIds: 17324765942994764495
-  ChildIds: 12381390032042286170
-  ChildIds: 16356904232159488574
-  ChildIds: 3120435983431974713
-  ChildIds: 4505439860109524725
-  ChildIds: 4171854498495555105
-  ChildIds: 14379291037453768270
-  ChildIds: 14641341919710865587
-  ChildIds: 8968363721667634454
-  ChildIds: 3948400584444070978
-  ChildIds: 13679204825090217774
-  ChildIds: 14175099470459031084
-  ChildIds: 8472118451631041732
-  ChildIds: 13277491577844656771
-  ChildIds: 8976543394826060612
-  ChildIds: 17227946739006264313
   ChildIds: 9454546231531846152
   ChildIds: 18368575880474684427
-  ChildIds: 6229044146662525201
   ChildIds: 11660940147748003326
   ChildIds: 16551893970917294403
-  ChildIds: 17397069047041579306
-  ChildIds: 4895245017498636760
-  ChildIds: 6798180691624691639
   ChildIds: 18414486657080234919
   ChildIds: 16690544599231775004
   ChildIds: 3232043754983948385
-  ChildIds: 5901107049086666657
-  ChildIds: 5056061054629518066
-  ChildIds: 12106784410699516904
-  ChildIds: 534416888917303095
-  ChildIds: 15562687969679342720
-  ChildIds: 5248022074053366896
-  ChildIds: 6564747100915056501
-  ChildIds: 10960676969572557674
-  ChildIds: 17544690931790234185
-  ChildIds: 6263543213528842848
-  ChildIds: 14581256252257340620
-  ChildIds: 13548722228849595027
-  ChildIds: 17554656343654888123
-  ChildIds: 14325720395508621450
-  ChildIds: 6207731511961069938
-  ChildIds: 15222653161277984582
-  ChildIds: 3736529954733515342
-  ChildIds: 14549054980772767356
-  ChildIds: 16822974480698636055
-  ChildIds: 13590969509833352623
-  ChildIds: 3332358290895519573
-  ChildIds: 2779180420726065700
-  ChildIds: 14170109171324242377
+  ChildIds: 5818381303559537586
+  ChildIds: 12098290233399611311
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -434,13 +45,11 @@ Objects {
   }
 }
 Objects {
-  Id: 14170109171324242377
-  Name: "Sphere"
+  Id: 12098290233399611311
+  Name: "Terrain"
   Transform {
     Location {
-      X: -11137.5029
-      Y: 5067.44482
-      Z: 2873.92651
+      Z: 50
     }
     Rotation {
     }
@@ -451,16 +60,8 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 13167634928530025787
-      }
-    }
-  }
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceon"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
@@ -471,576 +72,19 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  CoreMesh {
-    MeshAsset {
-      Id: 529189327273806845
+  Terrain {
+    Material {
+      Id: 14358757294737118240
     }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
+    VoxelSize: 75
+    OctreeDepth: 5
+    GeneratorID: "DEPRECATED"
   }
 }
 Objects {
-  Id: 2779180420726065700
-  Name: "Cone - Truncated Wide"
+  Id: 5818381303559537586
+  Name: "Health Bar"
   Transform {
-    Location {
-      X: -11137.5029
-      Y: 5067.44482
-      Z: 2146.73291
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.5
-      Y: 0.5
-      Z: 15
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 370660620532678770
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10790767167476116364
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 3332358290895519573
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: -10452.4658
-      Y: 5027.59131
-      Z: 2178.55518
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 13167634928530025787
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 529189327273806845
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 13590969509833352623
-  Name: "Cone - Truncated Wide"
-  Transform {
-    Location {
-      X: -10452.4658
-      Y: 5027.59131
-      Z: 1820.98669
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.5
-      Y: 0.5
-      Z: 7
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 370660620532678770
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10790767167476116364
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 16822974480698636055
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: -7944.17188
-      Y: 1953.58643
-      Z: 889.162781
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 13167634928530025787
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 529189327273806845
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 14549054980772767356
-  Name: "Cone - Truncated Wide"
-  Transform {
-    Location {
-      X: -7944.17188
-      Y: 1953.58643
-      Z: 539.162781
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.5
-      Y: 0.5
-      Z: 7
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 370660620532678770
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10790767167476116364
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 3736529954733515342
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: -7190.54053
-      Y: -606.320557
-      Z: 1022.33875
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 13167634928530025787
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 529189327273806845
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 15222653161277984582
-  Name: "Cone - Truncated Wide"
-  Transform {
-    Location {
-      X: -7190.54053
-      Y: -606.320557
-      Z: 269.639526
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.5
-      Y: 0.5
-      Z: 15
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 370660620532678770
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10790767167476116364
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 6207731511961069938
-  Name: "Rock Hexagonal"
-  Transform {
-    Location {
-      X: -7196.80176
-      Y: -685.751
-      Z: 267.589355
-    }
-    Rotation {
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 15866222326113575540
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 14325720395508621450
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: -3385.01587
-      Y: -2692.22559
-      Z: 2862.7373
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 13167634928530025787
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 529189327273806845
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 17554656343654888123
-  Name: "Cone - Truncated Wide"
-  Transform {
-    Location {
-      X: -3385.01587
-      Y: -2692.22559
-      Z: 2512.7373
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.5
-      Y: 0.5
-      Z: 7
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 370660620532678770
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10790767167476116364
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 13548722228849595027
-  Name: "Rock Pile 002"
-  Transform {
-    Location {
-      X: 5594.19238
-      Y: 1561.01111
-      Z: 784.901123
-    }
-    Rotation {
-    }
     Scale {
       X: 1
       Y: 1
@@ -1054,550 +98,54 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3377721323622766709
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 14581256252257340620
-  Name: "Rock Pile 002"
-  Transform {
-    Location {
-      X: 1618.54761
-      Y: -43.8608398
-      Z: 1091.21338
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3377721323622766709
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 6263543213528842848
-  Name: "Rock 03"
-  Transform {
-    Location {
-      X: 1938.96082
-      Y: 2127.34082
-      Z: 1232.21704
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 18244274405329183209
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 17544690931790234185
-  Name: "Rock 01"
-  Transform {
-    Location {
-      X: 2681.7959
-      Y: -288.093018
-      Z: 1237.67554
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 18302154991031027573
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 10960676969572557674
-  Name: "Rock Block 01"
-  Transform {
-    Location {
-      X: 5690.36816
-      Y: -1644.47754
-      Z: 1028.21582
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11575723226595861385
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 6564747100915056501
-  Name: "Rock Flat 01"
-  Transform {
-    Location {
-      X: 4711.97412
-      Y: -1940.51392
-      Z: 1265.68091
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12428541630268486135
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 5248022074053366896
-  Name: "Rock Block 02"
-  Transform {
-    Location {
-      X: 3587.00903
-      Y: -3923.74023
-      Z: 806.670532
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 5305374958767337466
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 15562687969679342720
-  Name: "Rock Hexagonal"
-  Transform {
-    Location {
-      X: 2267.20874
-      Y: -3810.22046
-      Z: 720.158203
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 15866222326113575540
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 534416888917303095
-  Name: "UI Container"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Control {
-    RenderTransformPivot {
-      Anchor {
-        Value: "mc:euianchor:middlecenter"
-      }
-    }
-    Canvas {
-      ContentType {
-        Value: "mc:ecanvascontenttype:dynamic"
-      }
-    }
-    AnchorLayout {
-      SelfAnchor {
-        Anchor {
-          Value: "mc:euianchor:topleft"
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1675656989204002660
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Health Bar"
         }
-      }
-      TargetAnchor {
-        Anchor {
-          Value: "mc:euianchor:topleft"
+        Overrides {
+          Name: "cs:ShowNumber"
+          Bool: false
         }
       }
     }
-  }
-}
-Objects {
-  Id: 12106784410699516904
-  Name: "Bone Human Skull 01"
-  Transform {
-    Location {
-      X: 13600
-      Y: -15000
-      Z: 800
-    }
-    Rotation {
-      Yaw: 60
-    }
-    Scale {
-      X: 50
-      Y: 60
-      Z: 60
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4455965295306149658
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
+    ParameterOverrideMap {
+      key: 5873430187788484635
+      value {
+        Overrides {
+          Name: "Color"
+          Color {
+            R: 0.0280794334
+            G: 0.53
+            A: 1
+          }
+        }
       }
-      BoundsScale: 1
     }
-  }
-}
-Objects {
-  Id: 5056061054629518066
-  Name: "Bone Human Skull 01"
-  Transform {
-    Location {
-      X: 9550
-      Y: -7400
-      Z: 1550
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4455965295306149658
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
+    ParameterOverrideMap {
+      key: 10949033122195205957
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
       }
-      BoundsScale: 1
     }
-  }
-}
-Objects {
-  Id: 5901107049086666657
-  Name: "Sci-fi Base Capsule Top 01"
-  Transform {
-    Location {
-      X: 9350
-      Y: 9250
-      Z: 3800
-    }
-    Rotation {
-      Yaw: 129.999985
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 5417433838283302047
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
+    ParameterOverrideMap {
+      key: 18281836076880200646
+      value {
+        Overrides {
+          Name: "UIX"
+          Float: -762.298889
+        }
       }
-      BoundsScale: 1
+    }
+    TemplateAsset {
+      Id: 9498893865412610587
     }
   }
 }
@@ -1749,162 +297,6 @@ Objects {
       }
       SkinnedMeshes {
         Id: 841534158063459245
-      }
-    }
-  }
-}
-Objects {
-  Id: 6798180691624691639
-  Name: "UI Container"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Control {
-    RenderTransformPivot {
-      Anchor {
-        Value: "mc:euianchor:middlecenter"
-      }
-    }
-    Canvas {
-      ContentType {
-        Value: "mc:ecanvascontenttype:dynamic"
-      }
-    }
-    AnchorLayout {
-      SelfAnchor {
-        Anchor {
-          Value: "mc:euianchor:topleft"
-        }
-      }
-      TargetAnchor {
-        Anchor {
-          Value: "mc:euianchor:topleft"
-        }
-      }
-    }
-  }
-}
-Objects {
-  Id: 4895245017498636760
-  Name: "UI Container"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Control {
-    RenderTransformPivot {
-      Anchor {
-        Value: "mc:euianchor:middlecenter"
-      }
-    }
-    Canvas {
-      ContentType {
-        Value: "mc:ecanvascontenttype:dynamic"
-      }
-    }
-    AnchorLayout {
-      SelfAnchor {
-        Anchor {
-          Value: "mc:euianchor:topleft"
-        }
-      }
-      TargetAnchor {
-        Anchor {
-          Value: "mc:euianchor:topleft"
-        }
-      }
-    }
-  }
-}
-Objects {
-  Id: 17397069047041579306
-  Name: "UI Container"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Control {
-    RenderTransformPivot {
-      Anchor {
-        Value: "mc:euianchor:middlecenter"
-      }
-    }
-    Canvas {
-      ContentType {
-        Value: "mc:ecanvascontenttype:dynamic"
-      }
-    }
-    AnchorLayout {
-      SelfAnchor {
-        Anchor {
-          Value: "mc:euianchor:topleft"
-        }
-      }
-      TargetAnchor {
-        Anchor {
-          Value: "mc:euianchor:topleft"
-        }
       }
     }
   }
@@ -2116,58 +508,6 @@ Objects {
   }
 }
 Objects {
-  Id: 6229044146662525201
-  Name: "UI Container"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Control {
-    RenderTransformPivot {
-      Anchor {
-        Value: "mc:euianchor:middlecenter"
-      }
-    }
-    Canvas {
-      ContentType {
-        Value: "mc:ecanvascontenttype:dynamic"
-      }
-    }
-    AnchorLayout {
-      SelfAnchor {
-        Anchor {
-          Value: "mc:euianchor:topleft"
-        }
-      }
-      TargetAnchor {
-        Anchor {
-          Value: "mc:euianchor:topleft"
-        }
-      }
-    }
-  }
-}
-Objects {
   Id: 18368575880474684427
   Name: "Basic Submachine Gun"
   Transform {
@@ -2272,13 +612,2713 @@ Objects {
   }
 }
 Objects {
-  Id: 17227946739006264313
+  Id: 14256518743401566359
+  Name: "Weapon"
+  Transform {
+    Location {
+      X: 12650
+      Y: 12200
+      Z: 1000
+    }
+    Rotation {
+      Yaw: 39.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 15263134121742669654
+  ChildIds: 17025970366899021555
+  ChildIds: 4791069142926204134
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Equipment {
+    SocketName: "right_prop"
+    PickupTrigger {
+      SelfId: 4791069142926204134
+    }
+    Weapon {
+      ProjectileAssetRef {
+        Id: 841534158063459245
+      }
+      MuzzleFlashAssetRef {
+        Id: 841534158063459245
+      }
+      TrailAssetRef {
+        Id: 841534158063459245
+      }
+      ImpactAssetRef {
+        Id: 841534158063459245
+      }
+      Muzzle {
+        Location {
+        }
+        Rotation {
+        }
+      }
+      AnimationSet: "2hand_rifle_stance"
+      OutOfAmmoSfxAssetRef {
+        Id: 841534158063459245
+      }
+      ReloadSfxAssetRef {
+        Id: 841534158063459245
+      }
+      ImpactProjectileAssetRef {
+        Id: 841534158063459245
+      }
+      IsHitscan: true
+      BeamAssetRef {
+        Id: 841534158063459245
+      }
+      BurstCount: 1
+      BurstDuration: 4
+      Range: 100000
+      ImpactPlayerAssetRef {
+        Id: 841534158063459245
+      }
+      ReticleType {
+        Value: "mc:ereticletype:crosshair"
+      }
+      MaxAmmo: -1
+      AmmoType: "rounds"
+      MultiShot: 1
+      ProjectileSpeed: 20000
+      ProjectileLifeSpan: 10
+      ProjectileGravity: 1
+      ProjectileLength: 100
+      ProjectileRadius: 4
+      SpreadMin: 1
+      SpreadMax: 90
+      SpreadDecreaseSpeed: 6
+      SpreadIncreasePerShot: 2
+      SpreadPenaltyPerShot: 1.5
+      DefaultAbility {
+        SelfId: 15263134121742669654
+      }
+      ReloadAbility {
+        SelfId: 17025970366899021555
+      }
+      Damage: 10
+      WeaponTrajectoryMode {
+        Value: "mc:eweapontrajectorymode:followlookvector"
+      }
+    }
+  }
+}
+Objects {
+  Id: 4791069142926204134
+  Name: "PickupTrigger"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14256518743401566359
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:box"
+    }
+  }
+}
+Objects {
+  Id: 17025970366899021555
+  Name: "ReloadAbility"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14256518743401566359
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Ability {
+    IsEnabled: true
+    CastPhaseSettings {
+      Duration: 0.6
+      CanMove: true
+      CanJump: true
+      CanRotate: true
+      IsTargetDataUpdated: true
+      Facing_V2 {
+        Value: "mc:eabilitysetfacing:aim"
+      }
+    }
+    ExecutePhaseSettings {
+      Duration: 0.15
+      CanMove: true
+      CanJump: true
+      CanRotate: true
+      PreventOtherAbilities: true
+      IsTargetDataUpdated: true
+      Facing_V2 {
+        Value: "mc:eabilitysetfacing:aim"
+      }
+    }
+    RecoveryPhaseSettings {
+      CanMove: true
+      CanJump: true
+      CanRotate: true
+      PreventOtherAbilities: true
+      IsTargetDataUpdated: true
+      Facing_V2 {
+        Value: "mc:eabilitysetfacing:none"
+      }
+    }
+    CooldownPhaseSettings {
+      CanMove: true
+      CanJump: true
+      CanRotate: true
+      PreventOtherAbilities: true
+      IsTargetDataUpdated: true
+      Facing_V2 {
+        Value: "mc:eabilitysetfacing:none"
+      }
+    }
+    Animation: "2hand_rifle_reload_magazine"
+    KeyBinding_v2 {
+      Value: "mc:egameaction:extraaction_03"
+    }
+  }
+}
+Objects {
+  Id: 15263134121742669654
+  Name: "AttackAbility"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14256518743401566359
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Ability {
+    IsEnabled: true
+    CastPhaseSettings {
+      Duration: 0.03
+      CanMove: true
+      CanJump: true
+      CanRotate: true
+      PreventOtherAbilities: true
+      IsTargetDataUpdated: true
+      Facing_V2 {
+        Value: "mc:eabilitysetfacing:aim"
+      }
+    }
+    ExecutePhaseSettings {
+      Duration: 0.1
+      CanMove: true
+      CanJump: true
+      CanRotate: true
+      PreventOtherAbilities: true
+      IsTargetDataUpdated: true
+      Facing_V2 {
+        Value: "mc:eabilitysetfacing:aim"
+      }
+    }
+    RecoveryPhaseSettings {
+      Duration: 0.01
+      CanMove: true
+      CanJump: true
+      CanRotate: true
+      PreventOtherAbilities: true
+      IsTargetDataUpdated: true
+      Facing_V2 {
+        Value: "mc:eabilitysetfacing:none"
+      }
+    }
+    CooldownPhaseSettings {
+      CanMove: true
+      CanJump: true
+      CanRotate: true
+      PreventOtherAbilities: true
+      IsTargetDataUpdated: true
+      Facing_V2 {
+        Value: "mc:eabilitysetfacing:none"
+      }
+    }
+    Animation: "2hand_rifle_shoot"
+    KeyBinding_v2 {
+      Value: "mc:egameaction:primaryaction"
+    }
+  }
+}
+Objects {
+  Id: 14713340454944924967
+  Name: "Third Person Camera Settings"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 4226120016796708080
+  ChildIds: 724324913679364851
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 724324913679364851
+  Name: "Client Context"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14713340454944924967
+  ChildIds: 3567959178173361743
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  NetworkContext {
+  }
+}
+Objects {
+  Id: 3567959178173361743
+  Name: "Third Person Camera"
+  Transform {
+    Location {
+      Z: 500
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 724324913679364851
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Camera {
+    UseAsDefault: true
+    AttachToLocalPlayer: true
+    InitialDistance: 400
+    MinDistance: 300
+    MaxDistance: 600
+    PositionOffset {
+      Y: 60
+    }
+    RotationOffset {
+    }
+    FieldOfView: 90
+    ViewWidth: 1200
+    RotationMode {
+      Value: "mc:erotationmode:lookangle"
+    }
+    MinPitch: -89
+    MaxPitch: 89
+    DoesPositionOffsetSpring: true
+  }
+}
+Objects {
+  Id: 4226120016796708080
+  Name: "Third Person Player Settings"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14713340454944924967
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Settings {
+    IsDefault: true
+    PlayerMovementSettings {
+      WalkSpeed: 640
+      MaxAcceleration: 1800
+      WalkableFloorAngle: 44
+      JumpMaxCount: 1
+      JumpVelocity: 900
+      GroundFriction: 8
+      GravityScale: 1.9
+      MaxSwimSpeed: 420
+      Buoyancy: 1
+      TouchForceFactor: 1
+      BrakingDecelerationFlying: 600
+      MaxFlightSpeed: 600
+      MovementControlMode {
+        Value: "mc:emovementcontrolmode:lookrelative"
+      }
+      LookControlMode {
+        Value: "mc:elookcontrolmode:relative"
+      }
+      FacingMode {
+        Value: "mc:efacingmode:faceaimwhenactive"
+      }
+      DefaultRotationRate: 540
+      SlideRotationRate: 20
+      LookAtCursorProjectionPlane {
+        Value: "mc:eprojectionplane:xy"
+      }
+      MountedMaxAcceleration: 1800
+      MountedWalkSpeed: 960
+      MountedJumpMaxCount: 1
+      MountedJumpVelocity: 900
+      HeadVisibleToSelf: true
+      IsSlideEnabled: true
+      IsCrouchEnabled: true
+      IsJumpEnabled: true
+      CanMoveForward: true
+      CanMoveBackward: true
+      CanMoveLeft: true
+      CanMoveRight: true
+      AbilityAimMode {
+        Value: "mc:eabilityaimmode:viewrelative"
+      }
+      AppearanceChannelingTime: 2
+      MountChannelingTime: 2
+      FlipOnMultiJump: true
+      CanMoveUp: true
+      CanMoveDown: true
+      IsMountEnabled: true
+      MaxHitpoints: 100
+    }
+  }
+}
+Objects {
+  Id: 608352661108293274
+  Name: "Spawn Point"
+  Transform {
+    Location {
+      X: -3500
+      Y: -4600
+      Z: 800
+    }
+    Rotation {
+      Yaw: -70
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:alwaysvisible"
+  }
+  PlayerSpawnPoint {
+    TeamInt: 1
+    PlayerScaleMultiplier: 1
+    SpawnEffectsTemplate {
+      Id: 841534158063459245
+    }
+  }
+}
+Objects {
+  Id: 6109508241878678214
+  Name: "Trigger"
+  Transform {
+    Location {
+      X: -3500
+      Y: -4600
+      Z: 800
+    }
+    Rotation {
+      Yaw: -70
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:box"
+    }
+  }
+}
+Objects {
+  Id: 16813558807825262224
+  Name: "Spawn Point"
+  Transform {
+    Location {
+      X: -2800
+      Y: -2800
+      Z: 1450
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  PlayerSpawnPoint {
+    TeamInt: 1
+    PlayerScaleMultiplier: 1
+  }
+}
+Objects {
+  Id: 7367735074338159388
+  Name: "Game Settings"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Settings {
+    IsDefault: true
+    GameSettings {
+      RagdollOnDeath: true
+      ChatMode {
+        Value: "mc:echatmode:teamandall"
+      }
+      ChatSettings {
+        ChatMode {
+        }
+        ChatPosition {
+          X: 40
+        }
+        ChatSize {
+          X: 450
+          Y: 400
+        }
+        ChatHorizontalAlignment {
+          Value: "mc:ecorehorizontalalign:left"
+        }
+        ChatVerticalAlignment {
+          Value: "mc:ecorehorizontalalign:center"
+        }
+      }
+      PhysicsSettings {
+        MinContactOffset: 2
+        MaxContactOffset: 8
+      }
+      RelevanceSettings {
+        key: "decal"
+        value {
+          LowDistance: 4500
+          MediumDistance: 7000
+          HighDistance: 9000
+        }
+      }
+      RelevanceSettings {
+        key: "vfx"
+        value {
+          LowDistance: 4500
+          MediumDistance: 7000
+          HighDistance: 9000
+        }
+      }
+    }
+  }
+}
+Objects {
+  Id: 4286672273751396438
+  Name: "Group"
+  Transform {
+    Location {
+      X: -2800
+      Y: -2800
+      Z: 1450
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 6428492774700803031
+  ChildIds: 10977786187141630888
+  ChildIds: 13960647668216649672
+  ChildIds: 5767622458030746334
+  ChildIds: 13347571356570597580
+  ChildIds: 8573217413690260759
+  ChildIds: 11230582755012429386
+  ChildIds: 12357684465015450609
+  ChildIds: 12904803527475686636
+  ChildIds: 8880474742293933250
+  ChildIds: 173682819329282839
+  ChildIds: 17899644140545601410
+  ChildIds: 8940117186944230148
+  ChildIds: 15027568575010573568
+  ChildIds: 6765677341709429398
+  ChildIds: 11673532111277336123
+  ChildIds: 13667320073302952571
+  ChildIds: 4780851843930461147
+  ChildIds: 9781110355153662006
+  ChildIds: 4388312621189957723
+  ChildIds: 14948303400491336846
+  ChildIds: 1895787918886254115
+  ChildIds: 2782631498900404891
+  ChildIds: 16694669422465350886
+  ChildIds: 17647193109860645463
+  ChildIds: 3615416133435312648
+  ChildIds: 6682694748771492649
+  ChildIds: 9600992757966644876
+  ChildIds: 453212968354731415
+  ChildIds: 4648337977101238626
+  ChildIds: 8929849280668774533
+  ChildIds: 10093069029706741973
+  ChildIds: 7382262609330422926
+  ChildIds: 6557321153520701264
+  ChildIds: 1983856608532078390
+  ChildIds: 2774980057467399730
+  ChildIds: 7120510161713029620
+  ChildIds: 16385703522487258639
+  ChildIds: 16221556090426771757
+  ChildIds: 2374416494570215987
+  ChildIds: 15912478680403322907
+  ChildIds: 4486250664131686534
+  ChildIds: 10252203697940784753
+  ChildIds: 3731011799401397011
+  ChildIds: 11002952602821104559
+  ChildIds: 1963968687802016355
+  ChildIds: 2662737833394308208
+  ChildIds: 7969852043889839294
+  ChildIds: 1899097842538792737
+  ChildIds: 6400546003208569802
+  ChildIds: 7513504387346156685
+  ChildIds: 17335165792064396635
+  ChildIds: 3018237587022897537
+  ChildIds: 13052960272433511022
+  ChildIds: 18375948223944949784
+  ChildIds: 14357719312060409865
+  ChildIds: 16915503399935737532
+  ChildIds: 17170147068481108847
+  ChildIds: 18111116600050359333
+  ChildIds: 9119274916438306043
+  ChildIds: 4935702669004134131
+  ChildIds: 14443905960150150568
+  ChildIds: 29484220120275796
+  ChildIds: 15526213639701316592
+  ChildIds: 17274396982248610769
+  ChildIds: 3882721369435527302
+  ChildIds: 9970811151824249841
+  ChildIds: 4349804965323065322
+  ChildIds: 3540826502846433228
+  ChildIds: 18277361183645621756
+  ChildIds: 3817737124090847909
+  ChildIds: 3765581432689908047
+  ChildIds: 11685743319004098325
+  ChildIds: 13382780725133814999
+  ChildIds: 15321989411416694757
+  ChildIds: 17029032714421989472
+  ChildIds: 16073252777299160255
+  ChildIds: 15489593416048139552
+  ChildIds: 10873570424039588716
+  ChildIds: 10643017940812075068
+  ChildIds: 17208159667267571898
+  ChildIds: 781454870834989731
+  ChildIds: 173099409212854387
+  ChildIds: 11716504883168687641
+  ChildIds: 1351297403780440246
+  ChildIds: 17466938541791578067
+  ChildIds: 6202257978119643658
+  ChildIds: 17406666289409956806
+  ChildIds: 7200554222845917772
+  ChildIds: 8112129802590394478
+  ChildIds: 16163773896572036361
+  ChildIds: 11668772011418538276
+  ChildIds: 7674276696137647836
+  ChildIds: 10860315361424067027
+  ChildIds: 17457310108435736789
+  ChildIds: 13009904057983602543
+  ChildIds: 17637033996139104723
+  ChildIds: 7058111444488393993
+  ChildIds: 201209540518857416
+  ChildIds: 12098991025988891749
+  ChildIds: 3557068082342124189
+  ChildIds: 8297557317482171464
+  ChildIds: 10734886269855658049
+  ChildIds: 17717626307618681202
+  ChildIds: 17322158701422986054
+  ChildIds: 15537040523726118015
+  ChildIds: 10681329126306332976
+  ChildIds: 10072648468780975992
+  ChildIds: 3980873347878521553
+  ChildIds: 16892850286367810590
+  ChildIds: 7321229499145028670
+  ChildIds: 14859586191848927479
+  ChildIds: 12217626365482959418
+  ChildIds: 7046346471179504303
+  ChildIds: 18030162223039676925
+  ChildIds: 7634526814974231926
+  ChildIds: 11552182757657613736
+  ChildIds: 7072120607598515536
+  ChildIds: 7041063876045158124
+  ChildIds: 17331941073860765348
+  ChildIds: 9514333771922914361
+  ChildIds: 3292995780787373136
+  ChildIds: 3437791451321323891
+  ChildIds: 6068214547443290126
+  ChildIds: 15614036820299860705
+  ChildIds: 5841843457557699912
+  ChildIds: 8662723278739635928
+  ChildIds: 2584539210531712093
+  ChildIds: 9640775915465926171
+  ChildIds: 12750940904208296329
+  ChildIds: 4062841647402860123
+  ChildIds: 14661716458626039816
+  ChildIds: 12300959270887052648
+  ChildIds: 7924120732557571411
+  ChildIds: 11613588159655461101
+  ChildIds: 5799027212612528558
+  ChildIds: 8449950061749491812
+  ChildIds: 16405470719182913323
+  ChildIds: 27987847385944351
+  ChildIds: 2116466740288642757
+  ChildIds: 15691761491003051620
+  ChildIds: 13486167179127005801
+  ChildIds: 8016030347674521726
+  ChildIds: 10711076394389364268
+  ChildIds: 16744444062765872065
+  ChildIds: 15947803491482575554
+  ChildIds: 8991352009349859595
+  ChildIds: 6831393809673398110
+  ChildIds: 9393892090688571230
+  ChildIds: 7661403017470562605
+  ChildIds: 11886535144739933519
+  ChildIds: 1968397354190525484
+  ChildIds: 11598071457568499221
+  ChildIds: 10077246773572531617
+  ChildIds: 689715905076685089
+  ChildIds: 5088999040160987865
+  ChildIds: 1394830911245063950
+  ChildIds: 1433444998510626321
+  ChildIds: 3664386906946808681
+  ChildIds: 8489047435172585323
+  ChildIds: 14074256215681155232
+  ChildIds: 2414005323852668976
+  ChildIds: 12588929196828940692
+  ChildIds: 6404332452429035734
+  ChildIds: 13862492078006354473
+  ChildIds: 10377025174875917319
+  ChildIds: 18103199052016798002
+  ChildIds: 5868743554593250699
+  ChildIds: 8279404349845089581
+  ChildIds: 2360008480357359429
+  ChildIds: 4626110550685184076
+  ChildIds: 1856404019156301326
+  ChildIds: 13221121015779389457
+  ChildIds: 2764354479575766735
+  ChildIds: 4037889697982981970
+  ChildIds: 2610067097987603434
+  ChildIds: 16924256996815400440
+  ChildIds: 12408668646316921572
+  ChildIds: 16423599249708060101
+  ChildIds: 7630058786020255714
+  ChildIds: 2479743595446686767
+  ChildIds: 7253505047781076492
+  ChildIds: 11156768121937801422
+  ChildIds: 5524650671265319801
+  ChildIds: 3031762712812575701
+  ChildIds: 12336535114176266545
+  ChildIds: 13378963676698611428
+  ChildIds: 13761353126622343270
+  ChildIds: 8663449135692671632
+  ChildIds: 13981546839999136710
+  ChildIds: 7964167522014288358
+  ChildIds: 9403450893705854328
+  ChildIds: 2924252563349469127
+  ChildIds: 12545609099202300305
+  ChildIds: 2675004970872711288
+  ChildIds: 2169886806298398585
+  ChildIds: 2264121543028049469
+  ChildIds: 15896745099974622051
+  ChildIds: 16235509818800810638
+  ChildIds: 6595997126423151955
+  ChildIds: 11707441155861380486
+  ChildIds: 8499042242699213014
+  ChildIds: 10481251988980664273
+  ChildIds: 4205205550025505614
+  ChildIds: 15591925152896688937
+  ChildIds: 15518089942806486269
+  ChildIds: 3904098553325661967
+  ChildIds: 4036245016305030188
+  ChildIds: 10924191144720582978
+  ChildIds: 8860434210024857685
+  ChildIds: 12228519031036958652
+  ChildIds: 13852702242873549260
+  ChildIds: 12374125831536218155
+  ChildIds: 8289473698308116783
+  ChildIds: 15689588297353403313
+  ChildIds: 6552539682729322290
+  ChildIds: 5245381200268139178
+  ChildIds: 6619467824290059384
+  ChildIds: 12182217235541662540
+  ChildIds: 2659290343920619411
+  ChildIds: 18009917405251730850
+  ChildIds: 10582361548584075456
+  ChildIds: 1448396382433425485
+  ChildIds: 3504359219016040572
+  ChildIds: 7690490376167117714
+  ChildIds: 12229732925998311416
+  ChildIds: 7539392040194384890
+  ChildIds: 4947928732327256908
+  ChildIds: 12593408322642129969
+  ChildIds: 18045645937109700053
+  ChildIds: 8979707167989042083
+  ChildIds: 5874216264671756218
+  ChildIds: 3819664798419147848
+  ChildIds: 11992419921010110672
+  ChildIds: 8147021878822885249
+  ChildIds: 1453463645237387922
+  ChildIds: 15640584838038716251
+  ChildIds: 1691344416888919821
+  ChildIds: 4143104263733227415
+  ChildIds: 1012291742832692255
+  ChildIds: 4348801185054564458
+  ChildIds: 9580891149743781520
+  ChildIds: 8025034610236621205
+  ChildIds: 1508584456897175039
+  ChildIds: 9480988578618411942
+  ChildIds: 8310234774847978462
+  ChildIds: 11445598740759771995
+  ChildIds: 6972934667214304779
+  ChildIds: 17606765993835011623
+  ChildIds: 5793108688047581710
+  ChildIds: 16715910809516301290
+  ChildIds: 17266581553828157872
+  ChildIds: 17228257349525111321
+  ChildIds: 13220753076230482802
+  ChildIds: 11042440945499869712
+  ChildIds: 8174377970672108878
+  ChildIds: 15221447872479505143
+  ChildIds: 10506731744247299648
+  ChildIds: 17129892754240669698
+  ChildIds: 2278467129811050945
+  ChildIds: 3661026860338563763
+  ChildIds: 5773456299838647147
+  ChildIds: 12604130464625093473
+  ChildIds: 14284603831505098070
+  ChildIds: 16289768959198998090
+  ChildIds: 5947151080018624640
+  ChildIds: 5922841928288577348
+  ChildIds: 14784104036663800875
+  ChildIds: 2915646626825340482
+  ChildIds: 3431170671198741518
+  ChildIds: 17958606138439564179
+  ChildIds: 8151234956633431298
+  ChildIds: 13277451332804438273
+  ChildIds: 9170914494183405871
+  ChildIds: 3627483448082320400
+  ChildIds: 1411140831623006948
+  ChildIds: 836715913339067399
+  ChildIds: 975208580393825336
+  ChildIds: 18015614195767038814
+  ChildIds: 11358160975808969226
+  ChildIds: 15254444991685921831
+  ChildIds: 15105302167631850387
+  ChildIds: 8431081122647598839
+  ChildIds: 13583766215210082356
+  ChildIds: 1500517126925507619
+  ChildIds: 1402272526251395168
+  ChildIds: 3324119473660683231
+  ChildIds: 7703732593398370854
+  ChildIds: 6493954330284445213
+  ChildIds: 10196122558809442242
+  ChildIds: 17663067638546757220
+  ChildIds: 17103644688497670868
+  ChildIds: 431943546782089877
+  ChildIds: 10150028001724262439
+  ChildIds: 17786633822146648992
+  ChildIds: 11273352112245204300
+  ChildIds: 1642886867222690066
+  ChildIds: 11978378136685403285
+  ChildIds: 3477910309531277659
+  ChildIds: 7939418986209180392
+  ChildIds: 9069844709539696889
+  ChildIds: 525839962172638031
+  ChildIds: 11871934772397953227
+  ChildIds: 480227883184256501
+  ChildIds: 8934388188262700750
+  ChildIds: 13010494953643730133
+  ChildIds: 18422989256907028700
+  ChildIds: 7178589895343697583
+  ChildIds: 12729127344646434335
+  ChildIds: 8710298446820238575
+  ChildIds: 7272279494380984948
+  ChildIds: 2071008506364094116
+  ChildIds: 13573578954657113688
+  ChildIds: 11673257392995494077
+  ChildIds: 8687759738925086697
+  ChildIds: 847087423355406441
+  ChildIds: 4072507252656387777
+  ChildIds: 17324765942994764495
+  ChildIds: 12381390032042286170
+  ChildIds: 16356904232159488574
+  ChildIds: 3120435983431974713
+  ChildIds: 4505439860109524725
+  ChildIds: 4171854498495555105
+  ChildIds: 14379291037453768270
+  ChildIds: 14641341919710865587
+  ChildIds: 8968363721667634454
+  ChildIds: 3948400584444070978
+  ChildIds: 13679204825090217774
+  ChildIds: 14175099470459031084
+  ChildIds: 8472118451631041732
+  ChildIds: 13277491577844656771
+  ChildIds: 8976543394826060612
+  ChildIds: 17227946739006264313
+  ChildIds: 5901107049086666657
+  ChildIds: 5056061054629518066
+  ChildIds: 12106784410699516904
+  ChildIds: 15562687969679342720
+  ChildIds: 5248022074053366896
+  ChildIds: 6564747100915056501
+  ChildIds: 10960676969572557674
+  ChildIds: 17544690931790234185
+  ChildIds: 6263543213528842848
+  ChildIds: 14581256252257340620
+  ChildIds: 13548722228849595027
+  ChildIds: 17554656343654888123
+  ChildIds: 14325720395508621450
+  ChildIds: 6207731511961069938
+  ChildIds: 15222653161277984582
+  ChildIds: 3736529954733515342
+  ChildIds: 14549054980772767356
+  ChildIds: 16822974480698636055
+  ChildIds: 13590969509833352623
+  ChildIds: 3332358290895519573
+  ChildIds: 2779180420726065700
+  ChildIds: 14170109171324242377
+  ChildIds: 9655529455986846777
+  ChildIds: 16959846108992945814
+  ChildIds: 15600163310697923900
+  ChildIds: 443467123339003116
+  ChildIds: 3001413172434829997
+  ChildIds: 164096715332144626
+  ChildIds: 9766897223197160666
+  ChildIds: 11892580045490192914
+  ChildIds: 16868028031278652290
+  ChildIds: 12030332366279829980
+  ChildIds: 12941749171880288814
+  ChildIds: 6772405809832277476
+  ChildIds: 5589393078653968057
+  ChildIds: 5581686537746311323
+  ChildIds: 1781041315644559204
+  ChildIds: 14780843891415667454
+  ChildIds: 6783894615121165825
+  ChildIds: 5154874906664414584
+  ChildIds: 15437277954206597956
+  ChildIds: 17055187799111200037
+  ChildIds: 15858612235615939116
+  ChildIds: 6386769624731898994
+  ChildIds: 7734583272920557014
+  ChildIds: 12525992028611129111
+  ChildIds: 11033758194270456412
+  ChildIds: 3572154995958929206
+  ChildIds: 7539244345933408256
+  ChildIds: 2270296949262197550
+  ChildIds: 2749628316299335745
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2749628316299335745
+  Name: "Sci-fi Ship Nacelle 01"
+  Transform {
+    Location {
+      X: 2300
+      Y: -2550
+      Z: 4450
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13486718312674240514
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 2270296949262197550
+  Name: "Sci-fi Ship Nacelle 02"
+  Transform {
+    Location {
+      X: 400
+      Y: -1950
+      Z: 4000
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1678978340045821419
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 7539244345933408256
+  Name: "Sci-fi Ship Nacelle 02"
+  Transform {
+    Location {
+      X: 450
+      Y: -3100
+      Z: 4000
+    }
+    Rotation {
+      Yaw: 9.00001907
+      Roll: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1678978340045821419
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3572154995958929206
+  Name: "Sci-fi Ship Nacelle 01"
+  Transform {
+    Location {
+      X: 2300
+      Y: -2450
+      Z: 4450
+    }
+    Rotation {
+      Yaw: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13486718312674240514
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11033758194270456412
+  Name: "Sci-fi Ship Cockpit Canopy 01"
+  Transform {
+    Location {
+      X: 100
+      Y: -3250
+      Z: 4000
+    }
+    Rotation {
+      Yaw: -179.999985
+      Roll: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5525156053417254110
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 12525992028611129111
+  Name: "Sci-fi Ship Nacelle 02"
+  Transform {
+    Location {
+      X: 250
+      Y: -3100
+      Z: 4000
+    }
+    Rotation {
+      Yaw: 9.00001
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1678978340045821419
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 7734583272920557014
+  Name: "Sci-fi Ship Cockpit Canopy 01"
+  Transform {
+    Location {
+      X: 400
+      Y: -3250
+      Z: 4000
+    }
+    Rotation {
+      Roll: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5525156053417254110
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 6386769624731898994
+  Name: "Sci-fi Ship Light 01"
+  Transform {
+    Location {
+      X: 250
+      Y: -3150
+      Z: 4000
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12465163766505320492
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 15858612235615939116
+  Name: "Sci-fi Ship Light 01"
+  Transform {
+    Location {
+      X: 250
+      Y: -3150
+      Z: 4000
+    }
+    Rotation {
+      Yaw: -89.9999847
+      Roll: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12465163766505320492
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 17055187799111200037
+  Name: "Sci-fi Ship Nacelle 02"
+  Transform {
+    Location {
+      X: 200
+      Y: -1950
+      Z: 4000
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1678978340045821419
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 15437277954206597956
+  Name: "Sci-fi Ship Nacelle 03"
+  Transform {
+    Location {
+      X: -4250
+      Y: -2550
+      Z: 3900
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8936483106303992826
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5154874906664414584
+  Name: "Sci-fi Panel 1x4m Corner-cut"
+  Transform {
+    Location {
+      X: -2150
+      Y: -3100
+      Z: 4000
+    }
+    Rotation {
+      Pitch: -1.36603776e-05
+      Yaw: 88.9999771
+      Roll: 1.3660374e-05
+    }
+    Scale {
+      X: 2
+      Y: 7
+      Z: 8
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 11086638343974735238
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8661615798799767788
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 6783894615121165825
+  Name: "Sci-fi Panel 1x4m Corner-cut"
+  Transform {
+    Location {
+      X: -2150
+      Y: -2050
+      Z: 4000
+    }
+    Rotation {
+      Pitch: -1.36603776e-05
+      Yaw: -88.9999771
+      Roll: -179.999985
+    }
+    Scale {
+      X: 2
+      Y: 7
+      Z: 8
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 11086638343974735238
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8661615798799767788
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 14780843891415667454
+  Name: "Ellipsoid - Truncated Hollow"
+  Transform {
+    Location {
+      X: 250
+      Y: -2550
+      Z: 4000
+    }
+    Rotation {
+      Pitch: 90
+      Roll: 90.0000076
+    }
+    Scale {
+      X: 7
+      Y: 7
+      Z: 8
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 11086638343974735238
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4939346654724570447
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 1781041315644559204
+  Name: "Cone - Truncated Hollow Wide"
+  Transform {
+    Location {
+      X: 250
+      Y: -2550
+      Z: 4000
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 4.55345935e-06
+      Roll: -179.999969
+    }
+    Scale {
+      X: 10
+      Y: 13
+      Z: 40
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 8295722771588664707
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7744075857191147083
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5581686537746311323
+  Name: "Cone - Truncated Hollow Wide Thick"
+  Transform {
+    Location {
+      X: 300
+      Y: -2550
+      Z: 4000
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 10
+      Y: 13
+      Z: 80
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 8295722771588664707
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4799708168769429942
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5589393078653968057
+  Name: "Cone - Truncated"
+  Transform {
+    Location {
+      X: -3700
+      Y: -2550
+      Z: 4000
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 8
+      Y: 10
+      Z: 10
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 8295722771588664707
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11930032949537826363
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 6772405809832277476
+  Name: "Sci-fi Base Floor 03 4m"
+  Transform {
+    Location {
+      X: -1150
+      Y: 5100
+      Z: -150
+    }
+    Rotation {
+    }
+    Scale {
+      X: 6
+      Y: 6
+      Z: 3
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8125088729252019753
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 12941749171880288814
+  Name: "Sci-fi Ship Light 02"
+  Transform {
+    Location {
+      X: -3550
+      Y: -2550
+      Z: 4350
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4940914485142911592
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 12030332366279829980
+  Name: "Sci-fi Ship Nacelle 02"
+  Transform {
+    Location {
+      X: -4350
+      Y: -2700
+      Z: 4000
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1678978340045821419
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 16868028031278652290
+  Name: "Sci-fi Ship Nacelle 02"
+  Transform {
+    Location {
+      X: -4350
+      Y: -2400
+      Z: 4000
+    }
+    Rotation {
+      Pitch: -1.36603776e-05
+      Yaw: 180
+      Roll: 180
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1678978340045821419
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11892580045490192914
+  Name: "Sci-fi Ship Cockpit Canopy 02"
+  Transform {
+    Location {
+      X: -4150
+      Y: -2550
+      Z: 3850
+    }
+    Rotation {
+      Yaw: -179.999969
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15792047616889267381
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 9766897223197160666
+  Name: "Sci-fi Ship Cockpit Canopy 02"
+  Transform {
+    Location {
+      X: -4150
+      Y: -2550
+      Z: 4150
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15792047616889267381
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 164096715332144626
+  Name: "Sci-fi Ship Engine 01"
+  Transform {
+    Location {
+      X: 2050
+      Y: -2550
+      Z: 4000
+    }
+    Rotation {
+    }
+    Scale {
+      X: 5
+      Y: 5
+      Z: 5
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6789604014209716330
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3001413172434829997
+  Name: "Sci-fi Ship Nacelle 02"
+  Transform {
+    Location {
+      X: 2250
+      Y: -3200
+      Z: 4000
+    }
+    Rotation {
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1678978340045821419
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 443467123339003116
+  Name: "Sci-fi Ship Cockpit Back 03"
+  Transform {
+    Location {
+      X: -150
+      Y: -2600
+      Z: 4700
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9778899347684737374
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 15600163310697923900
+  Name: "Sci-fi Ship Cockpit Back 03"
+  Transform {
+    Location {
+      Y: -2600
+      Z: 4700
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9778899347684737374
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 16959846108992945814
+  Name: "Sci-fi Ship Cockpit Back 03"
+  Transform {
+    Location {
+      X: -100
+      Y: -2500
+      Z: 4700
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9778899347684737374
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 9655529455986846777
+  Name: "Sphere"
+  Transform {
+    Location {
+      X: -350
+      Y: -2550
+      Z: 4500
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3
+      Y: 2
+      Z: 3
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 529189327273806845
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 14170109171324242377
+  Name: "Sphere"
+  Transform {
+    Location {
+      X: -8337.50293
+      Y: 7867.44482
+      Z: 1423.92651
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13167634928530025787
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 529189327273806845
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 2779180420726065700
   Name: "Cone - Truncated Wide"
   Transform {
     Location {
-      X: -1350
-      Y: -2400
-      Z: 3450
+      X: -8337.50293
+      Y: 7867.44482
+      Z: 696.73291
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.5
+      Y: 0.5
+      Z: 15
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 370660620532678770
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10790767167476116364
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3332358290895519573
+  Name: "Sphere"
+  Transform {
+    Location {
+      X: -7652.46582
+      Y: 7827.59131
+      Z: 728.555176
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13167634928530025787
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 529189327273806845
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 13590969509833352623
+  Name: "Cone - Truncated Wide"
+  Transform {
+    Location {
+      X: -7652.46582
+      Y: 7827.59131
+      Z: 370.986694
     }
     Rotation {
     }
@@ -2288,7 +3328,958 @@ Objects {
       Z: 7
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 370660620532678770
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10790767167476116364
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 16822974480698636055
+  Name: "Sphere"
+  Transform {
+    Location {
+      X: -5144.17188
+      Y: 4753.58643
+      Z: -560.837219
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13167634928530025787
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 529189327273806845
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 14549054980772767356
+  Name: "Cone - Truncated Wide"
+  Transform {
+    Location {
+      X: -5144.17188
+      Y: 4753.58643
+      Z: -910.837219
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.5
+      Y: 0.5
+      Z: 7
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 370660620532678770
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10790767167476116364
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3736529954733515342
+  Name: "Sphere"
+  Transform {
+    Location {
+      X: -4390.54053
+      Y: 2193.67944
+      Z: -427.661255
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13167634928530025787
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 529189327273806845
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 15222653161277984582
+  Name: "Cone - Truncated Wide"
+  Transform {
+    Location {
+      X: -4390.54053
+      Y: 2193.67944
+      Z: -1180.36047
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.5
+      Y: 0.5
+      Z: 15
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 370660620532678770
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10790767167476116364
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 6207731511961069938
+  Name: "Rock Hexagonal"
+  Transform {
+    Location {
+      X: -4396.80176
+      Y: 2114.24902
+      Z: -1182.41064
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15866222326113575540
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 14325720395508621450
+  Name: "Sphere"
+  Transform {
+    Location {
+      X: -585.015869
+      Y: 107.774414
+      Z: 1412.7373
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13167634928530025787
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 529189327273806845
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 17554656343654888123
+  Name: "Cone - Truncated Wide"
+  Transform {
+    Location {
+      X: -585.015869
+      Y: 107.774414
+      Z: 1062.7373
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.5
+      Y: 0.5
+      Z: 7
+    }
+  }
+  ParentId: 4286672273751396438
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 370660620532678770
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10790767167476116364
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 13548722228849595027
+  Name: "Rock Pile 002"
+  Transform {
+    Location {
+      X: 8394.19238
+      Y: 4361.01123
+      Z: -665.098877
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3377721323622766709
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 14581256252257340620
+  Name: "Rock Pile 002"
+  Transform {
+    Location {
+      X: 4418.54785
+      Y: 2756.13916
+      Z: -358.786621
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3377721323622766709
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 6263543213528842848
+  Name: "Rock 03"
+  Transform {
+    Location {
+      X: 4738.96094
+      Y: 4927.34082
+      Z: -217.782959
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18244274405329183209
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 17544690931790234185
+  Name: "Rock 01"
+  Transform {
+    Location {
+      X: 5481.7959
+      Y: 2511.90698
+      Z: -212.324463
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18302154991031027573
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10960676969572557674
+  Name: "Rock Block 01"
+  Transform {
+    Location {
+      X: 8490.36816
+      Y: 1155.52246
+      Z: -421.78418
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11575723226595861385
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 6564747100915056501
+  Name: "Rock Flat 01"
+  Transform {
+    Location {
+      X: 7511.97412
+      Y: 859.486084
+      Z: -184.319092
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12428541630268486135
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5248022074053366896
+  Name: "Rock Block 02"
+  Transform {
+    Location {
+      X: 6387.00879
+      Y: -1123.74023
+      Z: -643.329468
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5305374958767337466
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 15562687969679342720
+  Name: "Rock Hexagonal"
+  Transform {
+    Location {
+      X: 5067.20898
+      Y: -1010.22046
+      Z: -729.841797
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15866222326113575540
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 12106784410699516904
+  Name: "Bone Human Skull 01"
+  Transform {
+    Location {
+      X: 16400
+      Y: -12200
+      Z: -650
+    }
+    Rotation {
+      Yaw: 59.9999924
+    }
+    Scale {
+      X: 50
+      Y: 60
+      Z: 60
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4455965295306149658
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5056061054629518066
+  Name: "Bone Human Skull 01"
+  Transform {
+    Location {
+      X: 12350
+      Y: -4600
+      Z: 100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4455965295306149658
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5901107049086666657
+  Name: "Sci-fi Base Capsule Top 01"
+  Transform {
+    Location {
+      X: 12150
+      Y: 12050
+      Z: 2350
+    }
+    Rotation {
+      Yaw: 129.999969
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4286672273751396438
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5417433838283302047
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 17227946739006264313
+  Name: "Cone - Truncated Wide"
+  Transform {
+    Location {
+      X: 1450
+      Y: 400
+      Z: 2000
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.5
+      Y: 0.5
+      Z: 7
+    }
+  }
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2331,9 +4322,9 @@ Objects {
   Name: "Sphere"
   Transform {
     Location {
-      X: -1350
-      Y: -2400
-      Z: 3800
+      X: 1450
+      Y: 400
+      Z: 2350
     }
     Rotation {
     }
@@ -2343,7 +4334,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2386,9 +4377,9 @@ Objects {
   Name: "Cube - Rounded Bottom-Aligned"
   Transform {
     Location {
-      X: -1350
-      Y: -2400
-      Z: 3150
+      X: 1450
+      Y: 400
+      Z: 1700
     }
     Rotation {
     }
@@ -2398,7 +4389,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2441,9 +4432,9 @@ Objects {
   Name: "Sci-fi Base Capsule 02 8m"
   Transform {
     Location {
-      X: -1350
-      Y: -2400
-      Z: 2550
+      X: 1450
+      Y: 400
+      Z: 1100
     }
     Rotation {
     }
@@ -2453,7 +4444,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2488,12 +4479,12 @@ Objects {
   Name: "Sci-fi Base Floor 01"
   Transform {
     Location {
-      X: -550
-      Y: -1750
-      Z: 1900
+      X: 2250
+      Y: 1050
+      Z: 450
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -2501,7 +4492,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2536,12 +4527,12 @@ Objects {
   Name: "Sci-fi Base Girder Corner 01"
   Transform {
     Location {
-      X: 100
-      Y: -1800
-      Z: 1900
+      X: 2900
+      Y: 1000
+      Z: 450
     }
     Rotation {
-      Yaw: 89.9999924
+      Yaw: 89.9999847
     }
     Scale {
       X: 1
@@ -2549,7 +4540,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2584,12 +4575,12 @@ Objects {
   Name: "Sci-fi Base Girder Corner 01"
   Transform {
     Location {
-      X: -400
-      Y: -1800
-      Z: 1900
+      X: 2400
+      Y: 1000
+      Z: 450
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -2597,7 +4588,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2632,12 +4623,12 @@ Objects {
   Name: "Sci-fi Base HVAC 01"
   Transform {
     Location {
-      X: 500
-      Y: -2100
-      Z: 1350
+      X: 3300
+      Y: 700
+      Z: -100
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -2645,7 +4636,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2680,9 +4671,9 @@ Objects {
   Name: "Sci-fi Base Girder 6m 01"
   Transform {
     Location {
-      X: -1150
-      Y: -3900
-      Z: 1400
+      X: 1650
+      Y: -1100
+      Z: -50
     }
     Rotation {
     }
@@ -2692,7 +4683,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2727,9 +4718,9 @@ Objects {
   Name: "Sci-fi Base Girder 6m 01"
   Transform {
     Location {
-      X: -1950
-      Y: -3900
-      Z: 1400
+      X: 850
+      Y: -1100
+      Z: -50
     }
     Rotation {
     }
@@ -2739,7 +4730,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2774,12 +4765,12 @@ Objects {
   Name: "Sci-fi Base Breakout Box 01"
   Transform {
     Location {
-      X: -1350
-      Y: -3050
-      Z: 2300
+      X: 1450
+      Y: -250
+      Z: 850
     }
     Rotation {
-      Yaw: 180
+      Yaw: -179.999985
     }
     Scale {
       X: 1
@@ -2787,7 +4778,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2822,12 +4813,12 @@ Objects {
   Name: "Sci-fi Base Breakout Box 01"
   Transform {
     Location {
-      X: -950
-      Y: -3050
-      Z: 2300
+      X: 1850
+      Y: -250
+      Z: 850
     }
     Rotation {
-      Yaw: 180
+      Yaw: -179.999985
     }
     Scale {
       X: 1
@@ -2835,7 +4826,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2870,9 +4861,9 @@ Objects {
   Name: "Sci-fi Base Breakout Box 02"
   Transform {
     Location {
-      X: -600
-      Y: -3050
-      Z: 2250
+      X: 2200
+      Y: -250
+      Z: 800
     }
     Rotation {
     }
@@ -2882,7 +4873,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2917,12 +4908,12 @@ Objects {
   Name: "Sci-fi Base Breakout Box 04"
   Transform {
     Location {
-      X: -3650
-      Y: -3000
-      Z: 1550
+      X: -850
+      Y: -200
+      Z: 100
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -2930,7 +4921,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2965,12 +4956,12 @@ Objects {
   Name: "Sci-fi Base Breakout Box 03"
   Transform {
     Location {
-      X: -3550
-      Y: -3500
-      Z: 2550
+      X: -750
+      Y: -700
+      Z: 1100
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -2978,7 +4969,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3013,9 +5004,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -750
-      Y: -2600
-      Z: 2550
+      X: 2050
+      Y: 200
+      Z: 1100
     }
     Rotation {
     }
@@ -3025,7 +5016,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3060,9 +5051,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -1550
-      Y: -2600
-      Z: 2550
+      X: 1250
+      Y: 200
+      Z: 1100
     }
     Rotation {
     }
@@ -3072,7 +5063,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3107,9 +5098,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -1150
-      Y: -2600
-      Z: 2550
+      X: 1650
+      Y: 200
+      Z: 1100
     }
     Rotation {
     }
@@ -3119,7 +5110,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3154,9 +5145,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: 50
-      Y: -2600
-      Z: 2550
+      X: 2850
+      Y: 200
+      Z: 1100
     }
     Rotation {
     }
@@ -3166,7 +5157,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3201,9 +5192,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -350
-      Y: -2600
-      Z: 2550
+      X: 2450
+      Y: 200
+      Z: 1100
     }
     Rotation {
     }
@@ -3213,7 +5204,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3248,9 +5239,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -350
-      Y: -1800
-      Z: 2550
+      X: 2450
+      Y: 1000
+      Z: 1100
     }
     Rotation {
     }
@@ -3260,7 +5251,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3295,9 +5286,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -1150
-      Y: -1800
-      Z: 2550
+      X: 1650
+      Y: 1000
+      Z: 1100
     }
     Rotation {
     }
@@ -3307,7 +5298,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3342,9 +5333,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -1950
-      Y: -2600
-      Z: 2550
+      X: 850
+      Y: 200
+      Z: 1100
     }
     Rotation {
     }
@@ -3354,7 +5345,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3389,9 +5380,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -1950
-      Y: -1800
-      Z: 2550
+      X: 850
+      Y: 1000
+      Z: 1100
     }
     Rotation {
     }
@@ -3401,7 +5392,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3436,9 +5427,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -2750
-      Y: -1800
-      Z: 2550
+      X: 50
+      Y: 1000
+      Z: 1100
     }
     Rotation {
     }
@@ -3448,7 +5439,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3483,9 +5474,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -2750
-      Y: -2600
-      Z: 2550
+      X: 50
+      Y: 200
+      Z: 1100
     }
     Rotation {
     }
@@ -3495,7 +5486,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3530,9 +5521,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -2350
-      Y: -2600
-      Z: 2550
+      X: 450
+      Y: 200
+      Z: 1100
     }
     Rotation {
     }
@@ -3542,7 +5533,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3577,12 +5568,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -500
-      Y: -2600
-      Z: 1300
+      X: 2300
+      Y: 200
+      Z: -150
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -3590,7 +5581,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3625,12 +5616,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -350
-      Y: -2600
-      Z: 1300
+      X: 2450
+      Y: 200
+      Z: -150
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -3638,7 +5629,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3673,12 +5664,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -650
-      Y: -2600
-      Z: 1300
+      X: 2150
+      Y: 200
+      Z: -150
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -3686,7 +5677,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3721,12 +5712,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -800
-      Y: -2600
-      Z: 1300
+      X: 2000
+      Y: 200
+      Z: -150
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -3734,7 +5725,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3769,12 +5760,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -950
-      Y: -2600
-      Z: 1300
+      X: 1850
+      Y: 200
+      Z: -150
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -3782,7 +5773,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3817,12 +5808,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -1100
-      Y: -2600
-      Z: 1300
+      X: 1700
+      Y: 200
+      Z: -150
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -3830,7 +5821,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3865,9 +5856,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -3550
-      Y: -3400
-      Z: 2550
+      X: -750
+      Y: -600
+      Z: 1100
     }
     Rotation {
     }
@@ -3877,7 +5868,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3912,9 +5903,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -3150
-      Y: -3400
-      Z: 2550
+      X: -350
+      Y: -600
+      Z: 1100
     }
     Rotation {
     }
@@ -3924,7 +5915,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3959,9 +5950,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -3550
-      Y: -2600
-      Z: 2550
+      X: -750
+      Y: 200
+      Z: 1100
     }
     Rotation {
     }
@@ -3971,7 +5962,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4006,9 +5997,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -2750
-      Y: -3000
-      Z: 2550
+      X: 50
+      Y: -200
+      Z: 1100
     }
     Rotation {
     }
@@ -4018,7 +6009,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4066,7 +6057,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4084,15 +6075,23 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2750
-            Y: -2600
-            Z: 1950
+            X: 50
+            Y: 200
+            Z: 500
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 90
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -4120,7 +6119,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4138,15 +6137,23 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 450
-            Y: -3000
-            Z: 1950
+            X: 3250
+            Y: -200
+            Z: 500
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 180
+            Yaw: -179.999985
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -4173,7 +6180,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4191,14 +6198,22 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -350
-            Y: -1800
-            Z: 1950
+            X: 2450
+            Y: 1000
+            Z: 500
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -4226,7 +6241,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4244,14 +6259,22 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -350
-            Y: -1800
-            Z: 1350
+            X: 2450
+            Y: 1000
+            Z: -100
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -4279,7 +6302,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4297,14 +6320,22 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3550
-            Y: -1800
-            Z: 1350
+            X: -750
+            Y: 1000
+            Z: -100
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -4319,12 +6350,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 Half"
   Transform {
     Location {
-      X: 450
-      Y: -2600
-      Z: 1950
+      X: 3250
+      Y: 200
+      Z: 500
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -4332,7 +6363,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4367,12 +6398,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 - Corner 02"
   Transform {
     Location {
-      X: 450
-      Y: -1800
-      Z: 1950
+      X: 3250
+      Y: 1000
+      Z: 500
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -4380,7 +6411,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4415,12 +6446,12 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: 450
-      Y: -1800
-      Z: 1950
+      X: 3250
+      Y: 1000
+      Z: 500
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -4428,7 +6459,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4463,12 +6494,12 @@ Objects {
   Name: "Sci-fi Base Railing 02"
   Transform {
     Location {
-      X: 450
-      Y: -3800
-      Z: 1950
+      X: 3250
+      Y: -1000
+      Z: 500
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -4476,7 +6507,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4511,9 +6542,9 @@ Objects {
   Name: "Sci-fi Base Railing 02"
   Transform {
     Location {
-      X: -1950
-      Y: -3800
-      Z: 1950
+      X: 850
+      Y: -1000
+      Z: 500
     }
     Rotation {
     }
@@ -4523,7 +6554,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4558,9 +6589,9 @@ Objects {
   Name: "Sci-fi Base Railing 02"
   Transform {
     Location {
-      X: -1150
-      Y: -3800
-      Z: 1950
+      X: 1650
+      Y: -1000
+      Z: 500
     }
     Rotation {
     }
@@ -4570,7 +6601,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4605,9 +6636,9 @@ Objects {
   Name: "Sci-fi Base Railing 02"
   Transform {
     Location {
-      X: -350
-      Y: -3800
-      Z: 1950
+      X: 2450
+      Y: -1000
+      Z: 500
     }
     Rotation {
     }
@@ -4617,7 +6648,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4652,12 +6683,12 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: -350
-      Y: -3000
-      Z: 1950
+      X: 2450
+      Y: -200
+      Z: 500
     }
     Rotation {
-      Yaw: -179.999969
+      Yaw: -179.999954
     }
     Scale {
       X: 1
@@ -4665,7 +6696,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4700,12 +6731,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 - Corner 01"
   Transform {
     Location {
-      X: 450
-      Y: -3000
-      Z: 1950
+      X: 3250
+      Y: -200
+      Z: 500
     }
     Rotation {
-      Yaw: 180
+      Yaw: -179.999985
     }
     Scale {
       X: 1
@@ -4713,7 +6744,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4748,12 +6779,12 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: -1150
-      Y: -3000
-      Z: 1950
+      X: 1650
+      Y: -200
+      Z: 500
     }
     Rotation {
-      Yaw: -179.999985
+      Yaw: -179.999969
     }
     Scale {
       X: 1
@@ -4761,7 +6792,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4796,12 +6827,12 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: -1950
-      Y: -3000
-      Z: 1950
+      X: 850
+      Y: -200
+      Z: 500
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -4809,7 +6840,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4844,12 +6875,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 - Corner 01"
   Transform {
     Location {
-      X: -1950
-      Y: -3800
-      Z: 1950
+      X: 850
+      Y: -1000
+      Z: 500
     }
     Rotation {
-      Yaw: -179.999985
+      Yaw: -179.999969
     }
     Scale {
       X: 1
@@ -4857,7 +6888,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4892,12 +6923,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 - Corner 01"
   Transform {
     Location {
-      X: 450
-      Y: -3800
-      Z: 1350
+      X: 3250
+      Y: -1000
+      Z: -100
     }
     Rotation {
-      Yaw: 180
+      Yaw: -179.999985
     }
     Scale {
       X: 1
@@ -4905,7 +6936,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4940,12 +6971,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 - Corner 02"
   Transform {
     Location {
-      X: -3550
-      Y: -3800
-      Z: 1950
+      X: -750
+      Y: -1000
+      Z: 500
     }
     Rotation {
-      Yaw: 89.9999924
+      Yaw: 89.9999847
     }
     Scale {
       X: 1
@@ -4953,7 +6984,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4988,12 +7019,12 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: -2750
-      Y: -3800
-      Z: 1950
+      X: 50
+      Y: -1000
+      Z: 500
     }
     Rotation {
-      Yaw: -179.999969
+      Yaw: -179.999954
     }
     Scale {
       X: 1
@@ -5001,7 +7032,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5036,12 +7067,12 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: -1950
-      Y: -3800
-      Z: 1950
+      X: 850
+      Y: -1000
+      Z: 500
     }
     Rotation {
-      Yaw: -179.999985
+      Yaw: -179.999969
     }
     Scale {
       X: 1
@@ -5049,7 +7080,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5084,12 +7115,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 Half"
   Transform {
     Location {
-      X: -3550
-      Y: -3800
-      Z: 1950
+      X: -750
+      Y: -1000
+      Z: 500
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -5097,7 +7128,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5132,12 +7163,12 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: -3550
-      Y: -3400
-      Z: 1950
+      X: -750
+      Y: -600
+      Z: 500
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -5145,7 +7176,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5180,9 +7211,9 @@ Objects {
   Name: "Sci-fi Base Wall 01 - Corner 02"
   Transform {
     Location {
-      X: -3550
-      Y: -2600
-      Z: 1950
+      X: -750
+      Y: 200
+      Z: 500
     }
     Rotation {
     }
@@ -5192,7 +7223,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5227,9 +7258,9 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: -3550
-      Y: -2600
-      Z: 1950
+      X: -750
+      Y: 200
+      Z: 500
     }
     Rotation {
     }
@@ -5239,7 +7270,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5274,12 +7305,12 @@ Objects {
   Name: "Sci-fi Base - Window 01"
   Transform {
     Location {
-      X: -3600
-      Y: -2200
-      Z: 1650
+      X: -800
+      Y: 600
+      Z: 200
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -5287,7 +7318,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5322,9 +7353,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -350
-      Y: -2600
-      Z: 1950
+      X: 2450
+      Y: 200
+      Z: 500
     }
     Rotation {
     }
@@ -5334,7 +7365,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5369,9 +7400,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -1550
-      Y: -2600
-      Z: 1950
+      X: 1250
+      Y: 200
+      Z: 500
     }
     Rotation {
     }
@@ -5381,7 +7412,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5416,9 +7447,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -1950
-      Y: -2600
-      Z: 1950
+      X: 850
+      Y: 200
+      Z: 500
     }
     Rotation {
     }
@@ -5428,7 +7459,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5463,9 +7494,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -2750
-      Y: -2600
-      Z: 1950
+      X: 50
+      Y: 200
+      Z: 500
     }
     Rotation {
     }
@@ -5475,7 +7506,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5510,9 +7541,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -2350
-      Y: -2600
-      Z: 1950
+      X: 450
+      Y: 200
+      Z: 500
     }
     Rotation {
     }
@@ -5522,7 +7553,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5557,9 +7588,9 @@ Objects {
   Name: "Sci-fi Base Capsule 02 8m"
   Transform {
     Location {
-      X: -1150
-      Y: -1550
-      Z: 1400
+      X: 1650
+      Y: 1250
+      Z: -50
     }
     Rotation {
     }
@@ -5569,7 +7600,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5604,12 +7635,14 @@ Objects {
   Name: "Sci-fi Base Girder 6m 01"
   Transform {
     Location {
-      X: -1550
-      Y: -1750
-      Z: 2550
+      X: 1250
+      Y: 1050
+      Z: 1100
     }
     Rotation {
-      Pitch: 180
+      Pitch: -1.36603776e-05
+      Yaw: 180
+      Roll: 180
     }
     Scale {
       X: 1
@@ -5617,7 +7650,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5652,9 +7685,9 @@ Objects {
   Name: "Sci-fi Base Girder 6m 01"
   Transform {
     Location {
-      X: -2350
-      Y: -1750
-      Z: 1300
+      X: 450
+      Y: 1050
+      Z: -150
     }
     Rotation {
     }
@@ -5664,7 +7697,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5699,9 +7732,9 @@ Objects {
   Name: "Sci-fi Base Wall 01 - Corner 02"
   Transform {
     Location {
-      X: -2750
-      Y: -1800
-      Z: 1950
+      X: 50
+      Y: 1000
+      Z: 500
     }
     Rotation {
     }
@@ -5711,7 +7744,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5746,12 +7779,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -350
-      Y: -3000
-      Z: 1300
+      X: 2450
+      Y: -200
+      Z: -150
     }
     Rotation {
-      Yaw: 180
+      Yaw: -179.999985
     }
     Scale {
       X: 1
@@ -5759,7 +7792,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5794,12 +7827,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -650
-      Y: -3000
-      Z: 1300
+      X: 2150
+      Y: -200
+      Z: -150
     }
     Rotation {
-      Yaw: 180
+      Yaw: -179.999985
     }
     Scale {
       X: 1
@@ -5807,7 +7840,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5842,12 +7875,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -950
-      Y: -3000
-      Z: 1300
+      X: 1850
+      Y: -200
+      Z: -150
     }
     Rotation {
-      Yaw: 180
+      Yaw: -179.999985
     }
     Scale {
       X: 1
@@ -5855,7 +7888,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5890,12 +7923,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -500
-      Y: -3000
-      Z: 1300
+      X: 2300
+      Y: -200
+      Z: -150
     }
     Rotation {
-      Yaw: 180
+      Yaw: -179.999985
     }
     Scale {
       X: 1
@@ -5903,7 +7936,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5938,12 +7971,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -800
-      Y: -3000
-      Z: 1300
+      X: 2000
+      Y: -200
+      Z: -150
     }
     Rotation {
-      Yaw: 180
+      Yaw: -179.999985
     }
     Scale {
       X: 1
@@ -5951,7 +7984,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5986,12 +8019,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -1100
-      Y: -3000
-      Z: 1300
+      X: 1700
+      Y: -200
+      Z: -150
     }
     Rotation {
-      Yaw: 180
+      Yaw: -179.999985
     }
     Scale {
       X: 1
@@ -5999,7 +8032,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6034,9 +8067,9 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -650
-      Y: -3025
-      Z: 1912
+      X: 2150
+      Y: -225
+      Z: 462
     }
     Rotation {
     }
@@ -6046,7 +8079,7 @@ Objects {
       Z: 0.25
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6089,9 +8122,9 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -650
-      Y: -2575
-      Z: 1912
+      X: 2150
+      Y: 225
+      Z: 462
     }
     Rotation {
     }
@@ -6101,7 +8134,7 @@ Objects {
       Z: 0.25
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6144,12 +8177,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -1100
-      Y: -3000
-      Z: 1300
+      X: 1700
+      Y: -200
+      Z: -150
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -6157,7 +8190,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6192,12 +8225,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -950
-      Y: -3000
-      Z: 1300
+      X: 1850
+      Y: -200
+      Z: -150
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -6205,7 +8238,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6240,12 +8273,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -800
-      Y: -3000
-      Z: 1300
+      X: 2000
+      Y: -200
+      Z: -150
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -6253,7 +8286,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6288,12 +8321,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -650
-      Y: -3000
-      Z: 1300
+      X: 2150
+      Y: -200
+      Z: -150
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -6301,7 +8334,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6336,12 +8369,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -500
-      Y: -3000
-      Z: 1300
+      X: 2300
+      Y: -200
+      Z: -150
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -6349,7 +8382,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6384,12 +8417,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -350
-      Y: -3000
-      Z: 1300
+      X: 2450
+      Y: -200
+      Z: -150
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -6397,7 +8430,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6432,9 +8465,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -350
-      Y: -2600
-      Z: 1300
+      X: 2450
+      Y: 200
+      Z: -150
     }
     Rotation {
     }
@@ -6444,7 +8477,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6479,9 +8512,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -500
-      Y: -2600
-      Z: 1300
+      X: 2300
+      Y: 200
+      Z: -150
     }
     Rotation {
     }
@@ -6491,7 +8524,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6526,9 +8559,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -650
-      Y: -2600
-      Z: 1300
+      X: 2150
+      Y: 200
+      Z: -150
     }
     Rotation {
     }
@@ -6538,7 +8571,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6573,9 +8606,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -800
-      Y: -2600
-      Z: 1300
+      X: 2000
+      Y: 200
+      Z: -150
     }
     Rotation {
     }
@@ -6585,7 +8618,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6620,9 +8653,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -950
-      Y: -2600
-      Z: 1300
+      X: 1850
+      Y: 200
+      Z: -150
     }
     Rotation {
     }
@@ -6632,7 +8665,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6667,9 +8700,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -1100
-      Y: -2600
-      Z: 1300
+      X: 1700
+      Y: 200
+      Z: -150
     }
     Rotation {
     }
@@ -6679,7 +8712,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6714,12 +8747,12 @@ Objects {
   Name: "Sci-fi Base Stairs 01 150cm"
   Transform {
     Location {
-      X: -750
-      Y: -3000
-      Z: 1650
+      X: 2050
+      Y: -200
+      Z: 200
     }
     Rotation {
-      Yaw: 89.9999924
+      Yaw: 89.9999847
     }
     Scale {
       X: 1
@@ -6727,7 +8760,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6762,12 +8795,12 @@ Objects {
   Name: "Sci-fi Base Stairs 01 150cm"
   Transform {
     Location {
-      X: -550
-      Y: -3000
-      Z: 1800
+      X: 2250
+      Y: -200
+      Z: 350
     }
     Rotation {
-      Yaw: 89.9999847
+      Yaw: 89.9999771
     }
     Scale {
       X: 1
@@ -6775,7 +8808,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6810,12 +8843,12 @@ Objects {
   Name: "Sci-fi Base Stairs 01 150cm"
   Transform {
     Location {
-      X: -950
-      Y: -3000
-      Z: 1500
+      X: 1850
+      Y: -200
+      Z: 50
     }
     Rotation {
-      Yaw: 89.9999924
+      Yaw: 89.9999847
     }
     Scale {
       X: 1
@@ -6823,7 +8856,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6858,12 +8891,12 @@ Objects {
   Name: "Sci-fi Base Stairs 01 150cm"
   Transform {
     Location {
-      X: -1150
-      Y: -3000
-      Z: 1350
+      X: 1650
+      Y: -200
+      Z: -100
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -6871,7 +8904,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6906,9 +8939,9 @@ Objects {
   Name: "Sci-fi Base Wall 01 Half"
   Transform {
     Location {
-      X: 50
-      Y: -1800
-      Z: 1950
+      X: 2850
+      Y: 1000
+      Z: 500
     }
     Rotation {
     }
@@ -6918,7 +8951,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6953,9 +8986,9 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: -1150
-      Y: -1800
-      Z: 1350
+      X: 1650
+      Y: 1000
+      Z: -100
     }
     Rotation {
     }
@@ -6965,7 +8998,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7000,9 +9033,9 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: -1950
-      Y: -1800
-      Z: 1350
+      X: 850
+      Y: 1000
+      Z: -100
     }
     Rotation {
     }
@@ -7012,7 +9045,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7047,9 +9080,9 @@ Objects {
   Name: "Sci-fi Base Floor 03 4m"
   Transform {
     Location {
-      X: -3950
-      Y: -100
-      Z: 1300
+      X: -1150
+      Y: 2700
+      Z: -150
     }
     Rotation {
     }
@@ -7059,7 +9092,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7094,9 +9127,9 @@ Objects {
   Name: "Sci-fi Base Floor 03 4m"
   Transform {
     Location {
-      X: -1550
-      Y: -2500
-      Z: 1300
+      X: 1250
+      Y: 300
+      Z: -150
     }
     Rotation {
     }
@@ -7106,7 +9139,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7141,9 +9174,9 @@ Objects {
   Name: "Sci-fi Base Floor 03 4m"
   Transform {
     Location {
-      X: -3950
-      Y: -2500
-      Z: 1300
+      X: -1150
+      Y: 300
+      Z: -150
     }
     Rotation {
     }
@@ -7153,7 +9186,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7188,9 +9221,9 @@ Objects {
   Name: "Sci-fi Base Floor 03 4m"
   Transform {
     Location {
-      X: -1550
-      Y: -100
-      Z: 1300
+      X: 1250
+      Y: 2700
+      Z: -150
     }
     Rotation {
     }
@@ -7200,7 +9233,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7235,9 +9268,9 @@ Objects {
   Name: "Sci-fi Base Wall 01 Half"
   Transform {
     Location {
-      X: -2350
-      Y: -1800
-      Z: 1950
+      X: 450
+      Y: 1000
+      Z: 500
     }
     Rotation {
     }
@@ -7247,7 +9280,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7282,9 +9315,9 @@ Objects {
   Name: "Sci-fi Base Wall 01 Half"
   Transform {
     Location {
-      X: -2750
-      Y: -1800
-      Z: 1950
+      X: 50
+      Y: 1000
+      Z: 500
     }
     Rotation {
     }
@@ -7294,7 +9327,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7329,9 +9362,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -2750
-      Y: -2600
-      Z: 1950
+      X: 50
+      Y: 200
+      Z: 500
     }
     Rotation {
     }
@@ -7341,7 +9374,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7376,9 +9409,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: 50
-      Y: -2600
-      Z: 1950
+      X: 2850
+      Y: 200
+      Z: 500
     }
     Rotation {
     }
@@ -7388,7 +9421,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7423,9 +9456,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -350
-      Y: -1800
-      Z: 1950
+      X: 2450
+      Y: 1000
+      Z: 500
     }
     Rotation {
     }
@@ -7435,7 +9468,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7470,9 +9503,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -350
-      Y: -3000
-      Z: 1950
+      X: 2450
+      Y: -200
+      Z: 500
     }
     Rotation {
     }
@@ -7482,7 +9515,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7517,9 +9550,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -1950
-      Y: -3000
-      Z: 1950
+      X: 850
+      Y: -200
+      Z: 500
     }
     Rotation {
     }
@@ -7529,7 +9562,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7564,9 +9597,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -1150
-      Y: -3000
-      Z: 1950
+      X: 1650
+      Y: -200
+      Z: 500
     }
     Rotation {
     }
@@ -7576,7 +9609,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7611,9 +9644,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -1150
-      Y: -1800
-      Z: 1950
+      X: 1650
+      Y: 1000
+      Z: 500
     }
     Rotation {
     }
@@ -7623,7 +9656,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7658,9 +9691,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -1950
-      Y: -1800
-      Z: 1950
+      X: 850
+      Y: 1000
+      Z: 500
     }
     Rotation {
     }
@@ -7670,7 +9703,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7705,9 +9738,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -2750
-      Y: -3000
-      Z: 1950
+      X: 50
+      Y: -200
+      Z: 500
     }
     Rotation {
     }
@@ -7717,7 +9750,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7752,9 +9785,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -3550
-      Y: -2600
-      Z: 1950
+      X: -750
+      Y: 200
+      Z: 500
     }
     Rotation {
     }
@@ -7764,7 +9797,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7799,9 +9832,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -3150
-      Y: -3400
-      Z: 1950
+      X: -350
+      Y: -600
+      Z: 500
     }
     Rotation {
     }
@@ -7811,7 +9844,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7846,9 +9879,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 4m"
   Transform {
     Location {
-      X: -3550
-      Y: -3400
-      Z: 1950
+      X: -750
+      Y: -600
+      Z: 500
     }
     Rotation {
     }
@@ -7858,7 +9891,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7893,9 +9926,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -3550
-      Y: -2600
-      Z: 1950
+      X: -750
+      Y: 200
+      Z: 500
     }
     Rotation {
     }
@@ -7905,7 +9938,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7940,9 +9973,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -2750
-      Y: -1800
-      Z: 1950
+      X: 50
+      Y: 1000
+      Z: 500
     }
     Rotation {
     }
@@ -7952,7 +9985,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7987,9 +10020,9 @@ Objects {
   Name: "Sci-fi Base Roof 01 - 8m"
   Transform {
     Location {
-      X: -3550
-      Y: -1800
-      Z: 1950
+      X: -750
+      Y: 1000
+      Z: 500
     }
     Rotation {
     }
@@ -7999,7 +10032,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8034,9 +10067,9 @@ Objects {
   Name: "Sci-fi Chest Epic Base 01"
   Transform {
     Location {
-      X: -4050
-      Y: -700
-      Z: -5950
+      X: -1250
+      Y: 2100
+      Z: -7400
     }
     Rotation {
     }
@@ -8046,7 +10079,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8081,9 +10114,9 @@ Objects {
   Name: "Sci-fi Base Floor 03 4m"
   Transform {
     Location {
-      X: -1550
-      Y: 2300
-      Z: 1300
+      X: 1250
+      Y: 5100
+      Z: -150
     }
     Rotation {
     }
@@ -8093,7 +10126,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8128,9 +10161,9 @@ Objects {
   Name: "Multicast Beam VFX"
   Transform {
     Location {
-      X: -12150
-      Y: 5250
-      Z: 4100
+      X: -9350
+      Y: 8050
+      Z: 2650
     }
     Rotation {
       Pitch: 90
@@ -8141,7 +10174,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8173,9 +10206,9 @@ Objects {
   Name: "Multicast Beam VFX"
   Transform {
     Location {
-      X: -12050
-      Y: 5250
-      Z: 4100
+      X: -9250
+      Y: 8050
+      Z: 2650
     }
     Rotation {
       Pitch: 90
@@ -8186,7 +10219,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8218,9 +10251,9 @@ Objects {
   Name: "Multicast Beam VFX"
   Transform {
     Location {
-      X: -12050
-      Y: 5200
-      Z: 4100
+      X: -9250
+      Y: 8000
+      Z: 2650
     }
     Rotation {
       Pitch: 90
@@ -8231,7 +10264,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8263,9 +10296,9 @@ Objects {
   Name: "Multicast Beam VFX"
   Transform {
     Location {
-      X: -12150
-      Y: 5200
-      Z: 4100
+      X: -9350
+      Y: 8000
+      Z: 2650
     }
     Rotation {
       Pitch: 90
@@ -8276,7 +10309,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8308,9 +10341,9 @@ Objects {
   Name: "Physics Sphere"
   Transform {
     Location {
-      X: -1000
-      Y: -1200
-      Z: 1550
+      X: 1800
+      Y: 1600
+      Z: 100
     }
     Rotation {
     }
@@ -8320,7 +10353,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   ChildIds: 11684858284788680701
   WantsNetworking: true
   Collidable_v2 {
@@ -8440,9 +10473,11 @@ Objects {
   Name: "Basic Submachine Gun"
   Transform {
     Location {
-      X: -2500
-      Y: -2850
-      Z: 1550
+      X: 300
+      Y: -50
+      Z: 100
+    }
+    Rotation {
     }
     Scale {
       X: 0.99999994
@@ -8450,7 +10485,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   ChildIds: 12769618507035527879
   ChildIds: 8741134477901965902
   ChildIds: 13942184860984804656
@@ -8705,9 +10740,9 @@ Objects {
   Name: "Sci-fi Base Stairs 01"
   Transform {
     Location {
-      X: -9550
-      Y: 2450
-      Z: 500
+      X: -6750
+      Y: 5250
+      Z: -950
     }
     Rotation {
       Yaw: -140
@@ -8718,7 +10753,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8753,9 +10788,9 @@ Objects {
   Name: "Sci-fi Base Stairs 01"
   Transform {
     Location {
-      X: -10000
-      Y: 3000
-      Z: 1000
+      X: -7200
+      Y: 5800
+      Z: -450
     }
     Rotation {
       Yaw: -140
@@ -8766,7 +10801,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8801,9 +10836,8 @@ Objects {
   Name: "Sci-fi Base Stairs 01"
   Transform {
     Location {
-      X: -10400
-      Y: 3500
-      Z: 1450
+      X: -7600
+      Y: 6300
     }
     Rotation {
       Yaw: -140
@@ -8814,7 +10848,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8849,12 +10883,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -12400
-      Y: 5350
-      Z: 2150
+      X: -9600
+      Y: 8150
+      Z: 700
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 1
@@ -8862,7 +10896,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8897,12 +10931,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -12131.8848
-      Y: 5574.97559
-      Z: 2150
+      X: -9331.88477
+      Y: 8374.97559
+      Z: 700
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 1
@@ -8910,7 +10944,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8945,12 +10979,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -12003.3281
-      Y: 5421.76758
-      Z: 2100
+      X: -9203.32813
+      Y: 8221.76758
+      Z: 650
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 1
@@ -8958,7 +10992,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8993,12 +11027,12 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -12233.1387
-      Y: 5228.93066
-      Z: 2100
+      X: -9433.13867
+      Y: 8028.93066
+      Z: 650
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 1
@@ -9006,7 +11040,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9041,9 +11075,9 @@ Objects {
   Name: "Sci-fi Base Stairs 01"
   Transform {
     Location {
-      X: -10878.4492
-      Y: 4081.1875
-      Z: 2000
+      X: -8078.44922
+      Y: 6881.1875
+      Z: 550
     }
     Rotation {
       Yaw: -140
@@ -9054,7 +11088,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9089,9 +11123,9 @@ Objects {
   Name: "Sci-fi Base Stairs 01 150cm"
   Transform {
     Location {
-      X: -11392.6797
-      Y: 4694.02441
-      Z: 2600
+      X: -8592.68
+      Y: 7494.02441
+      Z: 1150
     }
     Rotation {
       Yaw: -140
@@ -9102,7 +11136,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9137,12 +11171,12 @@ Objects {
   Name: "Donut"
   Transform {
     Location {
-      X: -12092.2578
-      Y: 5216.60547
-      Z: 4100
+      X: -9292.25781
+      Y: 8016.60547
+      Z: 2650
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 3
@@ -9150,7 +11184,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9193,12 +11227,12 @@ Objects {
   Name: "Cone - Truncated Wide"
   Transform {
     Location {
-      X: -12092.2578
-      Y: 5216.60547
-      Z: 3600
+      X: -9292.25781
+      Y: 8016.60547
+      Z: 2150
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 0.5
@@ -9206,7 +11240,7 @@ Objects {
       Z: 10
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9249,12 +11283,12 @@ Objects {
   Name: "Donut"
   Transform {
     Location {
-      X: -12092.2578
-      Y: 5216.60547
-      Z: 4100
+      X: -9292.25781
+      Y: 8016.60547
+      Z: 2650
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 1.5
@@ -9262,7 +11296,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9305,12 +11339,12 @@ Objects {
   Name: "Pipe - Spiral"
   Transform {
     Location {
-      X: -12092.2578
-      Y: 5216.60547
-      Z: 3800
+      X: -9292.25781
+      Y: 8016.60547
+      Z: 2350
     }
     Rotation {
-      Yaw: -50
+      Yaw: -50.0000114
     }
     Scale {
       X: 1
@@ -9318,7 +11352,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9361,12 +11395,12 @@ Objects {
   Name: "Pipe - Spiral"
   Transform {
     Location {
-      X: -12092.2578
-      Y: 5216.60547
-      Z: 3800
+      X: -9292.25781
+      Y: 8016.60547
+      Z: 2350
     }
     Rotation {
-      Yaw: 40
+      Yaw: 39.9999847
     }
     Scale {
       X: 1
@@ -9374,7 +11408,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9417,9 +11451,9 @@ Objects {
   Name: "Pipe - Spiral"
   Transform {
     Location {
-      X: -12092.2578
-      Y: 5216.60547
-      Z: 3800
+      X: -9292.25781
+      Y: 8016.60547
+      Z: 2350
     }
     Rotation {
       Yaw: -140
@@ -9430,7 +11464,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9473,12 +11507,12 @@ Objects {
   Name: "Pipe - Spiral"
   Transform {
     Location {
-      X: -12092.2578
-      Y: 5216.60547
-      Z: 3800
+      X: -9292.25781
+      Y: 8016.60547
+      Z: 2350
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 1
@@ -9486,7 +11520,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9541,7 +11575,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9559,15 +11593,23 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -12041.6289
-            Y: 5389.62695
-            Z: 2750
+            X: -9241.62891
+            Y: 8189.62695
+            Z: 1300
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 130
+            Yaw: 129.999985
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -9582,12 +11624,12 @@ Objects {
   Name: "Sci-fi Base Antenna 01"
   Transform {
     Location {
-      X: -12322.0703
-      Y: 5023.76855
-      Z: 3400
+      X: -9522.07
+      Y: 7823.76855
+      Z: 1950
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 1
@@ -9595,7 +11637,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9630,12 +11672,12 @@ Objects {
   Name: "Sci-fi Base Capsule Top 01"
   Transform {
     Location {
-      X: -12092.2578
-      Y: 5216.60547
-      Z: 3350
+      X: -9292.25781
+      Y: 8016.60547
+      Z: 1900
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 1
@@ -9643,7 +11685,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9678,12 +11720,12 @@ Objects {
   Name: "Sci-fi Base Floor 01 - 4-Way"
   Transform {
     Location {
-      X: -12141.5625
-      Y: 4653.07227
-      Z: 3300
+      X: -9341.5625
+      Y: 7453.07227
+      Z: 1850
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 1
@@ -9691,7 +11733,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9726,12 +11768,12 @@ Objects {
   Name: "Sci-fi Base Girder 6m 01"
   Transform {
     Location {
-      X: -11988.3516
-      Y: 4781.62891
-      Z: 2700
+      X: -9188.35156
+      Y: 7581.62891
+      Z: 1250
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 1
@@ -9739,7 +11781,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9774,12 +11816,12 @@ Objects {
   Name: "Sci-fi Base Girder 6m 01"
   Transform {
     Location {
-      X: -11681.9336
-      Y: 5038.74414
-      Z: 2700
+      X: -8881.93359
+      Y: 7838.74414
+      Z: 1250
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 1
@@ -9787,7 +11829,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9822,12 +11864,12 @@ Objects {
   Name: "Sci-fi Base Floor 02 4m"
   Transform {
     Location {
-      X: -12341.8848
-      Y: 5202.9541
-      Z: 2750
+      X: -9541.88477
+      Y: 8002.9541
+      Z: 1300
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 1
@@ -9835,7 +11877,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9870,12 +11912,12 @@ Objects {
   Name: "Sci-fi Base Floor 02 4m"
   Transform {
     Location {
-      X: -11827.6543
-      Y: 4590.11719
-      Z: 2750
+      X: -9027.6543
+      Y: 7390.11719
+      Z: 1300
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 1
@@ -9883,7 +11925,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9918,12 +11960,12 @@ Objects {
   Name: "Sci-fi Base Floor 03 4m"
   Transform {
     Location {
-      X: -12084.7695
-      Y: 4896.53711
-      Z: 2750
+      X: -9284.77
+      Y: 7696.53711
+      Z: 1300
     }
     Rotation {
-      Yaw: 130
+      Yaw: 129.999985
     }
     Scale {
       X: 1
@@ -9931,7 +11973,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9965,13 +12007,20 @@ Objects {
   Id: 7630058786020255714
   Name: "Sky Paradise Planet"
   Transform {
+    Location {
+      X: 2800
+      Y: 2800
+      Z: -1450
+    }
+    Rotation {
+    }
     Scale {
       X: 1
       Y: 1
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -10000,9 +12049,9 @@ Objects {
   Name: "Moon"
   Transform {
     Location {
-      X: 13000
-      Y: 17900
-      Z: 19200
+      X: 15800
+      Y: 20700
+      Z: 17750
     }
     Rotation {
     }
@@ -10012,7 +12061,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10038,9 +12087,9 @@ Objects {
   Name: "Sun Light"
   Transform {
     Location {
-      X: -7050
-      Y: 3150
-      Z: 9750
+      X: -4250
+      Y: 5950
+      Z: 8300
     }
     Rotation {
     }
@@ -10050,7 +12099,7 @@ Objects {
       Z: 10
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "bp:Intensity"
@@ -10101,9 +12150,9 @@ Objects {
   Name: "Star Dome"
   Transform {
     Location {
-      X: -19150
-      Y: 2100
-      Z: 5550
+      X: -16350
+      Y: 4900
+      Z: 4100
     }
     Rotation {
     }
@@ -10113,7 +12162,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10138,13 +12187,20 @@ Objects {
   Id: 2610067097987603434
   Name: "Sky Sci-fi 01"
   Transform {
+    Location {
+      X: 2800
+      Y: 2800
+      Z: -1450
+    }
+    Rotation {
+    }
     Scale {
       X: 1
       Y: 1
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   ChildIds: 16475706148176713423
   ChildIds: 216726000842460243
   ChildIds: 14897908439185843337
@@ -10647,6 +12703,9 @@ Objects {
   Name: "Nebula"
   Transform {
     Location {
+      X: 2800
+      Y: 2800
+      Z: -1450
     }
     Rotation {
     }
@@ -10656,7 +12715,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10682,6 +12741,9 @@ Objects {
   Name: "Nebula"
   Transform {
     Location {
+      X: 2800
+      Y: 2800
+      Z: -1450
     }
     Rotation {
     }
@@ -10691,7 +12753,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10717,6 +12779,9 @@ Objects {
   Name: "Nebula"
   Transform {
     Location {
+      X: 2800
+      Y: 2800
+      Z: -1450
     }
     Rotation {
     }
@@ -10726,7 +12791,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10752,13 +12817,14 @@ Objects {
   Name: "Multicast Beam VFX"
   Transform {
     Location {
-      X: 9400
-      Y: 9150
-      Z: 4550
+      X: 12200
+      Y: 11950
+      Z: 3100
     }
     Rotation {
-      Pitch: 74.9999619
-      Roll: -84.999939
+      Pitch: 74.9999847
+      Yaw: -6.59744228e-06
+      Roll: -84.9999695
     }
     Scale {
       X: 2
@@ -10766,7 +12832,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10798,13 +12864,14 @@ Objects {
   Name: "Multicast Beam VFX"
   Transform {
     Location {
-      X: 9350
-      Y: 9300
-      Z: 4550
+      X: 12150
+      Y: 12100
+      Z: 3100
     }
     Rotation {
-      Pitch: 74.9999771
-      Roll: -84.999939
+      Pitch: 74.9999619
+      Yaw: -6.59744501e-06
+      Roll: -84.9999237
     }
     Scale {
       X: 2
@@ -10812,7 +12879,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10844,9 +12911,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: 9650
-      Y: 9400
-      Z: 2600
+      X: 12450
+      Y: 12200
+      Z: 1150
     }
     Rotation {
     }
@@ -10856,7 +12923,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10891,9 +12958,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: 9650
-      Y: 9050
-      Z: 2600
+      X: 12450
+      Y: 11850
+      Z: 1150
     }
     Rotation {
     }
@@ -10903,7 +12970,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10938,9 +13005,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: 9450
-      Y: 9050
-      Z: 2550
+      X: 12250
+      Y: 11850
+      Z: 1100
     }
     Rotation {
     }
@@ -10950,7 +13017,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10985,9 +13052,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: 9450
-      Y: 9350
-      Z: 2550
+      X: 12250
+      Y: 12150
+      Z: 1100
     }
     Rotation {
     }
@@ -10997,7 +13064,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11032,12 +13099,12 @@ Objects {
   Name: "Sci-fi Base Stairs 01 150cm"
   Transform {
     Location {
-      X: 8500
-      Y: 9050
-      Z: 3050
+      X: 11300
+      Y: 11850
+      Z: 1600
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -11045,7 +13112,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11080,12 +13147,12 @@ Objects {
   Name: "Sci-fi Base Stairs 01"
   Transform {
     Location {
-      X: 7700
-      Y: 9050
-      Z: 2450
+      X: 10500
+      Y: 11850
+      Z: 1000
     }
     Rotation {
-      Yaw: 89.9999771
+      Yaw: 89.9999619
     }
     Scale {
       X: 1
@@ -11093,7 +13160,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11128,12 +13195,12 @@ Objects {
   Name: "Sci-fi Base Stairs 01"
   Transform {
     Location {
-      X: 6950
-      Y: 9050
-      Z: 1900
+      X: 9750
+      Y: 11850
+      Z: 450
     }
     Rotation {
-      Yaw: 89.9999847
+      Yaw: 89.9999771
     }
     Scale {
       X: 1
@@ -11141,7 +13208,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11176,12 +13243,12 @@ Objects {
   Name: "Sci-fi Base Stairs 01"
   Transform {
     Location {
-      X: 6150
-      Y: 9050
-      Z: 1300
+      X: 8950
+      Y: 11850
+      Z: -150
     }
     Rotation {
-      Yaw: 89.9999924
+      Yaw: 89.9999847
     }
     Scale {
       X: 1
@@ -11189,7 +13256,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11224,12 +13291,12 @@ Objects {
   Name: "Sci-fi Base Stairs 01"
   Transform {
     Location {
-      X: 5550
-      Y: 9050
-      Z: 850
+      X: 8350
+      Y: 11850
+      Z: -600
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -11237,7 +13304,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11272,13 +13339,14 @@ Objects {
   Name: "Multicast Beam VFX"
   Transform {
     Location {
-      X: 9300
-      Y: 9250
-      Z: 4550
+      X: 12100
+      Y: 12050
+      Z: 3100
     }
     Rotation {
-      Pitch: 75
-      Roll: -85
+      Pitch: 74.9999771
+      Yaw: -6.59745137e-06
+      Roll: -84.9999542
     }
     Scale {
       X: 2
@@ -11286,7 +13354,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11318,9 +13386,9 @@ Objects {
   Name: "Donut"
   Transform {
     Location {
-      X: 9350
-      Y: 9250
-      Z: 4550
+      X: 12150
+      Y: 12050
+      Z: 3100
     }
     Rotation {
     }
@@ -11330,7 +13398,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11373,9 +13441,9 @@ Objects {
   Name: "Cone - Truncated Wide"
   Transform {
     Location {
-      X: 9350
-      Y: 9250
-      Z: 4050
+      X: 12150
+      Y: 12050
+      Z: 2600
     }
     Rotation {
     }
@@ -11385,7 +13453,7 @@ Objects {
       Z: 10
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11428,9 +13496,9 @@ Objects {
   Name: "Donut"
   Transform {
     Location {
-      X: 9350
-      Y: 9250
-      Z: 4550
+      X: 12150
+      Y: 12050
+      Z: 3100
     }
     Rotation {
     }
@@ -11440,7 +13508,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11483,12 +13551,12 @@ Objects {
   Name: "Pipe - Spiral"
   Transform {
     Location {
-      X: 9350
-      Y: 9250
-      Z: 4250
+      X: 12150
+      Y: 12050
+      Z: 2800
     }
     Rotation {
-      Yaw: 180
+      Yaw: -179.999985
     }
     Scale {
       X: 1
@@ -11496,7 +13564,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11539,12 +13607,12 @@ Objects {
   Name: "Pipe - Spiral"
   Transform {
     Location {
-      X: 9350
-      Y: 9250
-      Z: 4250
+      X: 12150
+      Y: 12050
+      Z: 2800
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -11552,7 +13620,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11595,12 +13663,12 @@ Objects {
   Name: "Pipe - Spiral"
   Transform {
     Location {
-      X: 9350
-      Y: 9250
-      Z: 4250
+      X: 12150
+      Y: 12050
+      Z: 2800
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -11608,7 +13676,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11651,9 +13719,9 @@ Objects {
   Name: "Pipe - Spiral"
   Transform {
     Location {
-      X: 9350
-      Y: 9250
-      Z: 4250
+      X: 12150
+      Y: 12050
+      Z: 2800
     }
     Rotation {
     }
@@ -11663,7 +13731,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11711,7 +13779,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11729,9 +13797,22 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9450
-            Y: 9100
-            Z: 3200
+            X: 12250
+            Y: 11900
+            Z: 1750
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -11746,9 +13827,9 @@ Objects {
   Name: "Sci-fi Base Antenna 01"
   Transform {
     Location {
-      X: 9350
-      Y: 9550
-      Z: 3850
+      X: 12150
+      Y: 12350
+      Z: 2400
     }
     Rotation {
     }
@@ -11758,7 +13839,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11793,9 +13874,9 @@ Objects {
   Name: "Sci-fi Base Floor 01 - 4-Way"
   Transform {
     Location {
-      X: 8950
-      Y: 9650
-      Z: 3750
+      X: 11750
+      Y: 12450
+      Z: 2300
     }
     Rotation {
     }
@@ -11805,7 +13886,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11836,315 +13917,13 @@ Objects {
   }
 }
 Objects {
-  Id: 14256518743401566359
-  Name: "Weapon"
-  Transform {
-    Location {
-      X: 12650
-      Y: 12200
-      Z: 1000
-    }
-    Rotation {
-      Yaw: 39.9999847
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 15263134121742669654
-  ChildIds: 17025970366899021555
-  ChildIds: 4791069142926204134
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Equipment {
-    SocketName: "right_prop"
-    PickupTrigger {
-      SelfId: 4791069142926204134
-    }
-    Weapon {
-      ProjectileAssetRef {
-        Id: 841534158063459245
-      }
-      MuzzleFlashAssetRef {
-        Id: 841534158063459245
-      }
-      TrailAssetRef {
-        Id: 841534158063459245
-      }
-      ImpactAssetRef {
-        Id: 841534158063459245
-      }
-      Muzzle {
-        Location {
-        }
-        Rotation {
-        }
-      }
-      AnimationSet: "2hand_rifle_stance"
-      OutOfAmmoSfxAssetRef {
-        Id: 841534158063459245
-      }
-      ReloadSfxAssetRef {
-        Id: 841534158063459245
-      }
-      ImpactProjectileAssetRef {
-        Id: 841534158063459245
-      }
-      IsHitscan: true
-      BeamAssetRef {
-        Id: 841534158063459245
-      }
-      BurstCount: 1
-      BurstDuration: 4
-      Range: 100000
-      ImpactPlayerAssetRef {
-        Id: 841534158063459245
-      }
-      ReticleType {
-        Value: "mc:ereticletype:crosshair"
-      }
-      MaxAmmo: -1
-      AmmoType: "rounds"
-      MultiShot: 1
-      ProjectileSpeed: 20000
-      ProjectileLifeSpan: 10
-      ProjectileGravity: 1
-      ProjectileLength: 100
-      ProjectileRadius: 4
-      SpreadMin: 1
-      SpreadMax: 90
-      SpreadDecreaseSpeed: 6
-      SpreadIncreasePerShot: 2
-      SpreadPenaltyPerShot: 1.5
-      DefaultAbility {
-        SelfId: 15263134121742669654
-      }
-      ReloadAbility {
-        SelfId: 17025970366899021555
-      }
-      Damage: 10
-      WeaponTrajectoryMode {
-        Value: "mc:eweapontrajectorymode:followlookvector"
-      }
-    }
-  }
-}
-Objects {
-  Id: 4791069142926204134
-  Name: "PickupTrigger"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14256518743401566359
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-  }
-}
-Objects {
-  Id: 17025970366899021555
-  Name: "ReloadAbility"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14256518743401566359
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Ability {
-    IsEnabled: true
-    CastPhaseSettings {
-      Duration: 0.6
-      CanMove: true
-      CanJump: true
-      CanRotate: true
-      IsTargetDataUpdated: true
-      Facing_V2 {
-        Value: "mc:eabilitysetfacing:aim"
-      }
-    }
-    ExecutePhaseSettings {
-      Duration: 0.15
-      CanMove: true
-      CanJump: true
-      CanRotate: true
-      PreventOtherAbilities: true
-      IsTargetDataUpdated: true
-      Facing_V2 {
-        Value: "mc:eabilitysetfacing:aim"
-      }
-    }
-    RecoveryPhaseSettings {
-      CanMove: true
-      CanJump: true
-      CanRotate: true
-      PreventOtherAbilities: true
-      IsTargetDataUpdated: true
-      Facing_V2 {
-        Value: "mc:eabilitysetfacing:none"
-      }
-    }
-    CooldownPhaseSettings {
-      CanMove: true
-      CanJump: true
-      CanRotate: true
-      PreventOtherAbilities: true
-      IsTargetDataUpdated: true
-      Facing_V2 {
-        Value: "mc:eabilitysetfacing:none"
-      }
-    }
-    Animation: "2hand_rifle_reload_magazine"
-    KeyBinding_v2 {
-      Value: "mc:egameaction:extraaction_03"
-    }
-  }
-}
-Objects {
-  Id: 15263134121742669654
-  Name: "AttackAbility"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14256518743401566359
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Ability {
-    IsEnabled: true
-    CastPhaseSettings {
-      Duration: 0.03
-      CanMove: true
-      CanJump: true
-      CanRotate: true
-      PreventOtherAbilities: true
-      IsTargetDataUpdated: true
-      Facing_V2 {
-        Value: "mc:eabilitysetfacing:aim"
-      }
-    }
-    ExecutePhaseSettings {
-      Duration: 0.1
-      CanMove: true
-      CanJump: true
-      CanRotate: true
-      PreventOtherAbilities: true
-      IsTargetDataUpdated: true
-      Facing_V2 {
-        Value: "mc:eabilitysetfacing:aim"
-      }
-    }
-    RecoveryPhaseSettings {
-      Duration: 0.01
-      CanMove: true
-      CanJump: true
-      CanRotate: true
-      PreventOtherAbilities: true
-      IsTargetDataUpdated: true
-      Facing_V2 {
-        Value: "mc:eabilitysetfacing:none"
-      }
-    }
-    CooldownPhaseSettings {
-      CanMove: true
-      CanJump: true
-      CanRotate: true
-      PreventOtherAbilities: true
-      IsTargetDataUpdated: true
-      Facing_V2 {
-        Value: "mc:eabilitysetfacing:none"
-      }
-    }
-    Animation: "2hand_rifle_shoot"
-    KeyBinding_v2 {
-      Value: "mc:egameaction:primaryaction"
-    }
-  }
-}
-Objects {
   Id: 7661403017470562605
   Name: "Sci-fi Base Girder 6m 01"
   Transform {
     Location {
-      X: 8950
-      Y: 9450
-      Z: 3150
+      X: 11750
+      Y: 12250
+      Z: 1700
     }
     Rotation {
     }
@@ -12154,7 +13933,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12189,9 +13968,9 @@ Objects {
   Name: "Sci-fi Base Girder 6m 01"
   Transform {
     Location {
-      X: 8950
-      Y: 9050
-      Z: 3150
+      X: 11750
+      Y: 11850
+      Z: 1700
     }
     Rotation {
     }
@@ -12201,7 +13980,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12236,9 +14015,9 @@ Objects {
   Name: "Sci-fi Base Floor 02 4m"
   Transform {
     Location {
-      X: 9500
-      Y: 9450
-      Z: 3200
+      X: 12300
+      Y: 12250
+      Z: 1750
     }
     Rotation {
     }
@@ -12248,7 +14027,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12283,9 +14062,9 @@ Objects {
   Name: "Sci-fi Base Floor 02 4m"
   Transform {
     Location {
-      X: 8700
-      Y: 9450
-      Z: 3200
+      X: 11500
+      Y: 12250
+      Z: 1750
     }
     Rotation {
     }
@@ -12295,7 +14074,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12330,9 +14109,9 @@ Objects {
   Name: "Sci-fi Base Floor 03 4m"
   Transform {
     Location {
-      X: 9100
-      Y: 9450
-      Z: 3200
+      X: 11900
+      Y: 12250
+      Z: 1750
     }
     Rotation {
     }
@@ -12342,7 +14121,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12377,12 +14156,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 Half"
   Transform {
     Location {
-      X: 450
-      Y: -3400
-      Z: 1350
+      X: 3250
+      Y: -600
+      Z: -100
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -12390,7 +14169,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12425,12 +14204,12 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: 450
-      Y: -2600
-      Z: 1350
+      X: 3250
+      Y: 200
+      Z: -100
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -12438,7 +14217,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12473,12 +14252,12 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: 450
-      Y: -1800
-      Z: 1350
+      X: 3250
+      Y: 1000
+      Z: -100
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -12486,7 +14265,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12521,12 +14300,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 - Corner 02"
   Transform {
     Location {
-      X: 450
-      Y: -1800
-      Z: 1350
+      X: 3250
+      Y: 1000
+      Z: -100
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
@@ -12534,7 +14313,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12569,9 +14348,9 @@ Objects {
   Name: "Sci-fi Base Wall 01 Half"
   Transform {
     Location {
-      X: 50
-      Y: -1800
-      Z: 1350
+      X: 2850
+      Y: 1000
+      Z: -100
     }
     Rotation {
     }
@@ -12581,7 +14360,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12616,9 +14395,9 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: -1150
-      Y: -1800
-      Z: 1950
+      X: 1650
+      Y: 1000
+      Z: 500
     }
     Rotation {
     }
@@ -12628,7 +14407,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12663,9 +14442,9 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: -1950
-      Y: -1800
-      Z: 1950
+      X: 850
+      Y: 1000
+      Z: 500
     }
     Rotation {
     }
@@ -12675,7 +14454,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12710,9 +14489,9 @@ Objects {
   Name: "Sci-fi Base Wall 01 Half"
   Transform {
     Location {
-      X: -2350
-      Y: -1800
-      Z: 1350
+      X: 450
+      Y: 1000
+      Z: -100
     }
     Rotation {
     }
@@ -12722,7 +14501,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12757,9 +14536,9 @@ Objects {
   Name: "Sci-fi Base Wall 01 Half"
   Transform {
     Location {
-      X: -2750
-      Y: -1800
-      Z: 1350
+      X: 50
+      Y: 1000
+      Z: -100
     }
     Rotation {
     }
@@ -12769,7 +14548,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12804,9 +14583,9 @@ Objects {
   Name: "Sci-fi Base Wall 01 - Corner 02"
   Transform {
     Location {
-      X: -3550
-      Y: -1800
-      Z: 1350
+      X: -750
+      Y: 1000
+      Z: -100
     }
     Rotation {
     }
@@ -12816,7 +14595,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12851,12 +14630,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 - Window 01"
   Transform {
     Location {
-      X: -3550
-      Y: -2600
-      Z: 1350
+      X: -750
+      Y: 200
+      Z: -100
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -12864,7 +14643,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12899,12 +14678,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 Half"
   Transform {
     Location {
-      X: -3550
-      Y: -3000
-      Z: 1350
+      X: -750
+      Y: -200
+      Z: -100
     }
     Rotation {
-      Yaw: 89.9999924
+      Yaw: 89.9999847
     }
     Scale {
       X: 1
@@ -12912,7 +14691,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12947,12 +14726,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 Half"
   Transform {
     Location {
-      X: -3550
-      Y: -3400
-      Z: 1350
+      X: -750
+      Y: -600
+      Z: -100
     }
     Rotation {
-      Yaw: 89.9999924
+      Yaw: 89.9999847
     }
     Scale {
       X: 1
@@ -12960,7 +14739,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12995,12 +14774,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 Half"
   Transform {
     Location {
-      X: -3550
-      Y: -3800
-      Z: 1350
+      X: -750
+      Y: -1000
+      Z: -100
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -13008,7 +14787,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13043,12 +14822,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 - Corner 02"
   Transform {
     Location {
-      X: -3550
-      Y: -3800
-      Z: 1350
+      X: -750
+      Y: -1000
+      Z: -100
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -13056,7 +14835,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13091,12 +14870,12 @@ Objects {
   Name: "Sci-fi Base Wall 01 Half"
   Transform {
     Location {
-      X: -3150
-      Y: -3800
-      Z: 1350
+      X: -350
+      Y: -1000
+      Z: -100
     }
     Rotation {
-      Yaw: 180
+      Yaw: -179.999985
     }
     Scale {
       X: 1
@@ -13104,7 +14883,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13144,7 +14923,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13162,15 +14941,23 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2350
-            Y: -3800
-            Z: 1350
+            X: 450
+            Y: -1000
+            Z: -100
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 180
+            Yaw: -179.999985
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -13190,7 +14977,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13208,15 +14995,23 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 450
-            Y: -3800
-            Z: 1350
+            X: 3250
+            Y: -1000
+            Z: -100
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 180
+            Yaw: -179.999985
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -13231,12 +15026,12 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: 50
-      Y: -3800
-      Z: 1350
+      X: 2850
+      Y: -1000
+      Z: -100
     }
     Rotation {
-      Yaw: -179.999969
+      Yaw: -179.999954
     }
     Scale {
       X: 1
@@ -13244,7 +15039,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13279,12 +15074,12 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: -750
-      Y: -3800
-      Z: 1350
+      X: 2050
+      Y: -1000
+      Z: -100
     }
     Rotation {
-      Yaw: -179.999985
+      Yaw: -179.999969
     }
     Scale {
       X: 1
@@ -13292,7 +15087,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13327,12 +15122,12 @@ Objects {
   Name: "Sci-fi Base Wall 01"
   Transform {
     Location {
-      X: -1550
-      Y: -3800
-      Z: 1350
+      X: 1250
+      Y: -1000
+      Z: -100
     }
     Rotation {
-      Yaw: 180
+      Yaw: -179.999985
     }
     Scale {
       X: 1
@@ -13340,7 +15135,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13375,12 +15170,12 @@ Objects {
   Name: "Sci-fi Base Railing 02"
   Transform {
     Location {
-      X: -3950
-      Y: -3300
-      Z: 1350
+      X: -1150
+      Y: -500
+      Z: -100
     }
     Rotation {
-      Yaw: 89.9999847
+      Yaw: 89.9999771
     }
     Scale {
       X: 1
@@ -13388,7 +15183,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13423,12 +15218,12 @@ Objects {
   Name: "Sci-fi Base Railing 02"
   Transform {
     Location {
-      X: -3950
-      Y: -4100
-      Z: 1350
+      X: -1150
+      Y: -1300
+      Z: -100
     }
     Rotation {
-      Yaw: 89.9999924
+      Yaw: 89.9999847
     }
     Scale {
       X: 1
@@ -13436,7 +15231,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13471,12 +15266,12 @@ Objects {
   Name: "Sci-fi Base Railing 02"
   Transform {
     Location {
-      X: -3950
-      Y: -4900
-      Z: 1350
+      X: -1150
+      Y: -2100
+      Z: -100
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -13484,7 +15279,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13524,7 +15319,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13542,15 +15337,23 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -4300
-            Y: -3950
-            Z: 150
+            X: -1500
+            Y: -1150
+            Z: -1300
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -90
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -13565,9 +15368,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -3550
-      Y: -4850
-      Z: 100
+      X: -750
+      Y: -2050
+      Z: -1350
     }
     Rotation {
     }
@@ -13577,7 +15380,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13608,86 +15411,6 @@ Objects {
   }
 }
 Objects {
-  Id: 608352661108293274
-  Name: "Spawn Point"
-  Transform {
-    Location {
-      X: -3500
-      Y: -4600
-      Z: 800
-    }
-    Rotation {
-      Yaw: -70
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:alwaysvisible"
-  }
-  PlayerSpawnPoint {
-    TeamInt: 1
-    PlayerScaleMultiplier: 1
-    SpawnEffectsTemplate {
-      Id: 841534158063459245
-    }
-  }
-}
-Objects {
-  Id: 6109508241878678214
-  Name: "Trigger"
-  Transform {
-    Location {
-      X: -3500
-      Y: -4600
-      Z: 800
-    }
-    Rotation {
-      Yaw: -70
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-  }
-}
-Objects {
   Id: 7041063876045158124
   Name: "Sci-fi Base Stairs 01 Landing"
   Transform {
@@ -13697,7 +15420,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13715,15 +15438,23 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
-            Y: -4750
-            Z: 750
+            X: -700
+            Y: -1950
+            Z: -700
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -90
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -13743,7 +15474,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13761,15 +15492,23 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3100
-            Y: -4750
-            Z: 750
+            X: -300
+            Y: -1950
+            Z: -700
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 90
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -13784,12 +15523,12 @@ Objects {
   Name: "Sci-fi Base Stairs 01 - L"
   Transform {
     Location {
-      X: -4100
-      Y: -4150
-      Z: 150
+      X: -1300
+      Y: -1350
+      Z: -1300
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -13797,7 +15536,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   ChildIds: 12186714958356286239
   ChildIds: 4584576560598596463
   ChildIds: 13281766002822446593
@@ -14996,9 +16735,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -1000
-      Y: -4800
-      Z: -450
+      X: 1800
+      Y: -2000
+      Z: -1900
     }
     Rotation {
     }
@@ -15008,7 +16747,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15043,9 +16782,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -1000
-      Y: -4350
-      Z: -450
+      X: 1800
+      Y: -1550
+      Z: -1900
     }
     Rotation {
     }
@@ -15055,7 +16794,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15090,9 +16829,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: -1900
-      Y: -4850
-      Z: 100
+      X: 900
+      Y: -2050
+      Z: -1350
     }
     Rotation {
     }
@@ -15102,7 +16841,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15137,9 +16876,9 @@ Objects {
   Name: "Sci-fi Base Floor 03 4m"
   Transform {
     Location {
-      X: -3950
-      Y: -100
-      Z: 1300
+      X: -1150
+      Y: 2700
+      Z: -150
     }
     Rotation {
     }
@@ -15149,7 +16888,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15184,9 +16923,9 @@ Objects {
   Name: "Sci-fi Base Floor 03 4m"
   Transform {
     Location {
-      X: -1550
-      Y: -2500
-      Z: 1300
+      X: 1250
+      Y: 300
+      Z: -150
     }
     Rotation {
     }
@@ -15196,7 +16935,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15231,9 +16970,9 @@ Objects {
   Name: "Sci-fi Base Floor 03 4m"
   Transform {
     Location {
-      X: -3950
-      Y: -2500
-      Z: 1300
+      X: -1150
+      Y: 300
+      Z: -150
     }
     Rotation {
     }
@@ -15243,7 +16982,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15278,9 +17017,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: 650
-      Y: 800
-      Z: 600
+      X: 3450
+      Y: 3600
+      Z: -850
     }
     Rotation {
     }
@@ -15290,7 +17029,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15325,9 +17064,9 @@ Objects {
   Name: "Sci-fi Base Wall Interior 02 - Corner 01"
   Transform {
     Location {
-      X: 800
-      Y: 450
-      Z: 700
+      X: 3600
+      Y: 3250
+      Z: -750
     }
     Rotation {
     }
@@ -15337,7 +17076,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15372,9 +17111,9 @@ Objects {
   Name: "Sci-fi Base Floor 03 4m"
   Transform {
     Location {
-      X: -1550
-      Y: -100
-      Z: 1300
+      X: 1250
+      Y: 2700
+      Z: -150
     }
     Rotation {
     }
@@ -15384,7 +17123,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15419,9 +17158,9 @@ Objects {
   Name: "Sci-fi Base Floor 03 4m"
   Transform {
     Location {
-      X: -3950
-      Y: 2300
-      Z: 1300
+      X: -1150
+      Y: 5100
+      Z: -150
     }
     Rotation {
     }
@@ -15431,7 +17170,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15466,12 +17205,12 @@ Objects {
   Name: "Sci-fi Ship Nacelle 01"
   Transform {
     Location {
-      X: -500
-      Y: -5250
-      Z: 5900
+      X: 2300
+      Y: -2450
+      Z: 4450
     }
     Rotation {
-      Yaw: -179.999969
+      Yaw: -179.999954
     }
     Scale {
       X: 1
@@ -15479,7 +17218,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15514,12 +17253,12 @@ Objects {
   Name: "Sci-fi Ship Nacelle 01"
   Transform {
     Location {
-      X: -500
-      Y: -5350
-      Z: 5900
+      X: 2300
+      Y: -2550
+      Z: 4450
     }
     Rotation {
-      Yaw: -179.999985
+      Yaw: -179.999969
     }
     Scale {
       X: 1
@@ -15527,7 +17266,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15562,9 +17301,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2400
-      Y: -4750
-      Z: 5450
+      X: 400
+      Y: -1950
+      Z: 4000
     }
     Rotation {
     }
@@ -15574,7 +17313,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15609,13 +17348,13 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2350
-      Y: -5900
-      Z: 5450
+      X: 450
+      Y: -3100
+      Z: 4000
     }
     Rotation {
-      Yaw: 9.00001907
-      Roll: -179.999969
+      Yaw: 9.00003
+      Roll: -179.999954
     }
     Scale {
       X: 1
@@ -15623,7 +17362,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15658,13 +17397,13 @@ Objects {
   Name: "Sci-fi Ship Cockpit Canopy 01"
   Transform {
     Location {
-      X: -2700
-      Y: -6050
-      Z: 5450
+      X: 100
+      Y: -3250
+      Z: 4000
     }
     Rotation {
-      Yaw: -179.999985
-      Roll: 89.9999847
+      Yaw: -179.999969
+      Roll: 89.9999619
     }
     Scale {
       X: 1
@@ -15672,7 +17411,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15707,13 +17446,13 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2550
-      Y: -5900
-      Z: 5450
+      X: 250
+      Y: -3100
+      Z: 4000
     }
     Rotation {
-      Yaw: 9.00001
-      Roll: -179.999985
+      Yaw: 9.00001907
+      Roll: -179.999969
     }
     Scale {
       X: 1
@@ -15721,7 +17460,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15756,12 +17495,12 @@ Objects {
   Name: "Sci-fi Ship Cockpit Canopy 01"
   Transform {
     Location {
-      X: -2400
-      Y: -6050
-      Z: 5450
+      X: 400
+      Y: -3250
+      Z: 4000
     }
     Rotation {
-      Roll: -89.9999924
+      Roll: -89.9999847
     }
     Scale {
       X: 1
@@ -15769,7 +17508,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15804,12 +17543,12 @@ Objects {
   Name: "Sci-fi Ship Light 01"
   Transform {
     Location {
-      X: -2550
-      Y: -5950
-      Z: 5450
+      X: 250
+      Y: -3150
+      Z: 4000
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -89.9999847
     }
     Scale {
       X: 1
@@ -15817,7 +17556,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15852,13 +17591,13 @@ Objects {
   Name: "Sci-fi Ship Light 01"
   Transform {
     Location {
-      X: -2550
-      Y: -5950
-      Z: 5450
+      X: 250
+      Y: -3150
+      Z: 4000
     }
     Rotation {
-      Yaw: -89.9999847
-      Roll: -179.999969
+      Yaw: -89.9999771
+      Roll: -179.999954
     }
     Scale {
       X: 1
@@ -15866,7 +17605,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15901,9 +17640,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2600
-      Y: -4750
-      Z: 5450
+      X: 200
+      Y: -1950
+      Z: 4000
     }
     Rotation {
     }
@@ -15913,7 +17652,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15948,9 +17687,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 03"
   Transform {
     Location {
-      X: -7050
-      Y: -5350
-      Z: 5350
+      X: -4250
+      Y: -2550
+      Z: 3900
     }
     Rotation {
     }
@@ -15960,7 +17699,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15995,12 +17734,12 @@ Objects {
   Name: "Sci-fi Ship Light 02"
   Transform {
     Location {
-      X: -6350
-      Y: -5350
-      Z: 5800
+      X: -3550
+      Y: -2550
+      Z: 4350
     }
     Rotation {
-      Yaw: -179.999985
+      Yaw: -179.999969
     }
     Scale {
       X: 1
@@ -16008,7 +17747,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16043,12 +17782,12 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -7150
-      Y: -5500
-      Z: 5450
+      X: -4350
+      Y: -2700
+      Z: 4000
     }
     Rotation {
-      Yaw: -179.999985
+      Yaw: -179.999969
     }
     Scale {
       X: 1
@@ -16056,7 +17795,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16091,14 +17830,14 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -7150
-      Y: -5200
-      Z: 5450
+      X: -4350
+      Y: -2400
+      Z: 4000
     }
     Rotation {
       Pitch: -1.36603776e-05
-      Yaw: 180
-      Roll: 180
+      Yaw: -179.999985
+      Roll: -179.999985
     }
     Scale {
       X: 1
@@ -16106,7 +17845,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16141,13 +17880,13 @@ Objects {
   Name: "Sci-fi Ship Cockpit Canopy 02"
   Transform {
     Location {
-      X: -6950
-      Y: -5350
-      Z: 5300
+      X: -4150
+      Y: -2550
+      Z: 3850
     }
     Rotation {
-      Yaw: -179.999969
-      Roll: -179.999985
+      Yaw: -179.999954
+      Roll: -179.999969
     }
     Scale {
       X: 1
@@ -16155,7 +17894,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16190,12 +17929,12 @@ Objects {
   Name: "Sci-fi Ship Cockpit Canopy 02"
   Transform {
     Location {
-      X: -6950
-      Y: -5350
-      Z: 5600
+      X: -4150
+      Y: -2550
+      Z: 4150
     }
     Rotation {
-      Yaw: -179.999985
+      Yaw: -179.999969
     }
     Scale {
       X: 1
@@ -16203,7 +17942,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16238,9 +17977,9 @@ Objects {
   Name: "Sci-fi Ship Engine 01"
   Transform {
     Location {
-      X: -750
-      Y: -5350
-      Z: 5450
+      X: 2050
+      Y: -2550
+      Z: 4000
     }
     Rotation {
     }
@@ -16250,7 +17989,7 @@ Objects {
       Z: 5
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16285,12 +18024,12 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -550
-      Y: -6000
-      Z: 5450
+      X: 2250
+      Y: -3200
+      Z: 4000
     }
     Rotation {
-      Roll: -179.999985
+      Roll: -179.999969
     }
     Scale {
       X: 1
@@ -16298,7 +18037,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16333,9 +18072,9 @@ Objects {
   Name: "Sci-fi Ship Cockpit Back 03"
   Transform {
     Location {
-      X: -2950
-      Y: -5400
-      Z: 6150
+      X: -150
+      Y: -2600
+      Z: 4700
     }
     Rotation {
     }
@@ -16345,7 +18084,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16380,9 +18119,8 @@ Objects {
   Name: "Sci-fi Ship Cockpit Back 03"
   Transform {
     Location {
-      X: -2800
-      Y: -5400
-      Z: 6150
+      Y: -2600
+      Z: 4700
     }
     Rotation {
     }
@@ -16392,7 +18130,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16427,9 +18165,9 @@ Objects {
   Name: "Sci-fi Ship Cockpit Back 03"
   Transform {
     Location {
-      X: -2900
-      Y: -5300
-      Z: 6150
+      X: -100
+      Y: -2500
+      Z: 4700
     }
     Rotation {
     }
@@ -16439,7 +18177,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16474,9 +18212,8 @@ Objects {
   Name: "Sci-fi Ship Cockpit Back 03"
   Transform {
     Location {
-      X: -2800
-      Y: -5300
-      Z: 6150
+      Y: -2500
+      Z: 4700
     }
     Rotation {
     }
@@ -16486,7 +18223,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16521,9 +18258,8 @@ Objects {
   Name: "Sci-fi Ship Cockpit Back 03"
   Transform {
     Location {
-      X: -2800
-      Y: -5350
-      Z: 6200
+      Y: -2550
+      Z: 4750
     }
     Rotation {
     }
@@ -16533,7 +18269,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16568,9 +18304,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5550
-      Z: 6000
+      X: 350
+      Y: -2750
+      Z: 4550
     }
     Rotation {
       Roll: -179.999954
@@ -16581,7 +18317,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16616,9 +18352,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5500
-      Z: 6050
+      X: 350
+      Y: -2700
+      Z: 4600
     }
     Rotation {
       Roll: -179.999954
@@ -16629,7 +18365,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16664,12 +18400,12 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5450
-      Z: 6100
+      X: 350
+      Y: -2650
+      Z: 4650
     }
     Rotation {
-      Roll: -179.999969
+      Roll: -179.999954
     }
     Scale {
       X: 1
@@ -16677,7 +18413,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16712,12 +18448,12 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5400
-      Z: 6150
+      X: 350
+      Y: -2600
+      Z: 4700
     }
     Rotation {
-      Roll: -179.999985
+      Roll: -179.999969
     }
     Scale {
       X: 1
@@ -16725,7 +18461,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16760,9 +18496,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5300
-      Z: 6150
+      X: 350
+      Y: -2500
+      Z: 4700
     }
     Rotation {
     }
@@ -16772,7 +18508,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16807,9 +18543,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5250
-      Z: 6100
+      X: 350
+      Y: -2450
+      Z: 4650
     }
     Rotation {
     }
@@ -16819,7 +18555,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16854,9 +18590,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5200
-      Z: 6050
+      X: 350
+      Y: -2400
+      Z: 4600
     }
     Rotation {
     }
@@ -16866,7 +18602,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16901,9 +18637,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5150
-      Z: 6000
+      X: 350
+      Y: -2350
+      Z: 4550
     }
     Rotation {
     }
@@ -16913,7 +18649,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16948,12 +18684,12 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5600
-      Z: 5950
+      X: 350
+      Y: -2800
+      Z: 4500
     }
     Rotation {
-      Roll: -179.999985
+      Roll: -179.999969
     }
     Scale {
       X: 1
@@ -16961,7 +18697,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16996,9 +18732,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5100
-      Z: 5950
+      X: 350
+      Y: -2300
+      Z: 4500
     }
     Rotation {
     }
@@ -17008,7 +18744,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17043,9 +18779,9 @@ Objects {
   Name: "Sci-fi Ship Cockpit Back 03"
   Transform {
     Location {
-      X: -2950
-      Y: -5350
-      Z: 6200
+      X: -150
+      Y: -2550
+      Z: 4750
     }
     Rotation {
     }
@@ -17055,7 +18791,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17090,13 +18826,13 @@ Objects {
   Name: "Sci-fi Ship Cockpit Canopy 01"
   Transform {
     Location {
-      X: -2700
-      Y: -5650
-      Z: 5950
+      X: 100
+      Y: -2850
+      Z: 4500
     }
     Rotation {
-      Yaw: -179.999985
-      Roll: 89.9999847
+      Yaw: -179.999969
+      Roll: 89.9999619
     }
     Scale {
       X: 1
@@ -17104,7 +18840,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17139,9 +18875,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 03"
   Transform {
     Location {
-      X: -2850
-      Y: -5350
-      Z: 5950
+      X: -50
+      Y: -2550
+      Z: 4500
     }
     Rotation {
     }
@@ -17151,7 +18887,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17186,9 +18922,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 03"
   Transform {
     Location {
-      X: -2700
-      Y: -5350
-      Z: 6200
+      X: 100
+      Y: -2550
+      Z: 4750
     }
     Rotation {
     }
@@ -17198,7 +18934,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17233,9 +18969,9 @@ Objects {
   Name: "Sci-fi Ship Cockpit Back 02"
   Transform {
     Location {
-      X: -2950
-      Y: -5350
-      Z: 6150
+      X: -150
+      Y: -2550
+      Z: 4700
     }
     Rotation {
     }
@@ -17245,7 +18981,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17280,14 +19016,14 @@ Objects {
   Name: "Sci-fi Ship Cockpit Canopy 01"
   Transform {
     Location {
-      X: -2700
-      Y: -5050
-      Z: 5950
+      X: 100
+      Y: -2250
+      Z: 4500
     }
     Rotation {
       Pitch: -1.36603776e-05
-      Yaw: 180
-      Roll: -89.9999771
+      Yaw: -179.999985
+      Roll: -89.9999542
     }
     Scale {
       X: 1
@@ -17295,7 +19031,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17330,9 +19066,9 @@ Objects {
   Name: "Sci-fi Ship Fuselage 01"
   Transform {
     Location {
-      X: -3200
-      Y: -5350
-      Z: 6000
+      X: -400
+      Y: -2550
+      Z: 4550
     }
     Rotation {
     }
@@ -17342,7 +19078,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17377,14 +19113,14 @@ Objects {
   Name: "Sci-fi Ship Cockpit Canopy 01"
   Transform {
     Location {
-      X: -2700
-      Y: -4600
-      Z: 5450
+      X: 100
+      Y: -1800
+      Z: 4000
     }
     Rotation {
       Pitch: -1.36603776e-05
-      Yaw: 180
-      Roll: -89.9999924
+      Yaw: -179.999985
+      Roll: -89.9999771
     }
     Scale {
       X: 1
@@ -17392,7 +19128,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17427,12 +19163,12 @@ Objects {
   Name: "Sci-fi Ship Cockpit Canopy 01"
   Transform {
     Location {
-      X: -2400
-      Y: -4600
-      Z: 5450
+      X: 400
+      Y: -1800
+      Z: 4000
     }
     Rotation {
-      Roll: 89.9999924
+      Roll: 89.9999847
     }
     Scale {
       X: 1
@@ -17440,7 +19176,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17475,13 +19211,13 @@ Objects {
   Name: "Sci-fi Ship Light 01"
   Transform {
     Location {
-      X: -2550
-      Y: -4750
-      Z: 5450
+      X: 250
+      Y: -1950
+      Z: 4000
     }
     Rotation {
-      Yaw: 89.9999771
-      Roll: -179.999985
+      Yaw: 89.9999542
+      Roll: -179.999969
     }
     Scale {
       X: 1
@@ -17489,7 +19225,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17524,12 +19260,12 @@ Objects {
   Name: "Sci-fi Ship Light 01"
   Transform {
     Location {
-      X: -2550
-      Y: -4750
-      Z: 5450
+      X: 250
+      Y: -1950
+      Z: 4000
     }
     Rotation {
-      Yaw: 89.9999924
+      Yaw: 89.9999847
     }
     Scale {
       X: 1
@@ -17537,7 +19273,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17572,9 +19308,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -550
-      Y: -4700
-      Z: 5450
+      X: 2250
+      Y: -1900
+      Z: 4000
     }
     Rotation {
     }
@@ -17584,7 +19320,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17619,9 +19355,9 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -5900
-      Z: 5450
+      X: 2350
+      Y: -3100
+      Z: 4000
     }
     Rotation {
     }
@@ -17631,7 +19367,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17666,9 +19402,9 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -6050
-      Z: 5450
+      X: 2350
+      Y: -3250
+      Z: 4000
     }
     Rotation {
     }
@@ -17678,7 +19414,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17713,12 +19449,12 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -5900
-      Z: 5450
+      X: 2350
+      Y: -3100
+      Z: 4000
     }
     Rotation {
-      Roll: -179.999969
+      Roll: -179.999954
     }
     Scale {
       X: 2
@@ -17726,7 +19462,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17761,9 +19497,9 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -6050
-      Z: 5450
+      X: 2350
+      Y: -3250
+      Z: 4000
     }
     Rotation {
       Roll: -179.999954
@@ -17774,7 +19510,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17809,12 +19545,12 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -4800
-      Z: 5450
+      X: 2350
+      Y: -2000
+      Z: 4000
     }
     Rotation {
-      Roll: -179.999969
+      Roll: -179.999954
     }
     Scale {
       X: 2
@@ -17822,7 +19558,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17857,12 +19593,12 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -4650
-      Z: 5450
+      X: 2350
+      Y: -1850
+      Z: 4000
     }
     Rotation {
-      Roll: -179.999985
+      Roll: -179.999969
     }
     Scale {
       X: 2
@@ -17870,7 +19606,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17905,9 +19641,9 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -4650
-      Z: 5450
+      X: 2350
+      Y: -1850
+      Z: 4000
     }
     Rotation {
     }
@@ -17917,7 +19653,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17952,9 +19688,9 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -600
-      Y: -6000
-      Z: 5450
+      X: 2200
+      Y: -3200
+      Z: 4000
     }
     Rotation {
     }
@@ -17964,7 +19700,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18007,9 +19743,9 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -600
-      Y: -4700
-      Z: 5450
+      X: 2200
+      Y: -1900
+      Z: 4000
     }
     Rotation {
     }
@@ -18019,7 +19755,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18062,9 +19798,9 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -4800
-      Z: 5450
+      X: 2350
+      Y: -2000
+      Z: 4000
     }
     Rotation {
     }
@@ -18074,7 +19810,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -18109,9 +19845,9 @@ Objects {
   Name: "Cone - Truncated Wide"
   Transform {
     Location {
-      X: -750
-      Y: -5350
-      Z: 5450
+      X: 2050
+      Y: -2550
+      Z: 4000
     }
     Rotation {
       Pitch: 90
@@ -18122,7 +19858,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18165,12 +19901,12 @@ Objects {
   Name: "Cone - Truncated Hollow Wide Thick"
   Transform {
     Location {
-      X: -3950
-      Y: -5750
-      Z: 5800
+      X: -1150
+      Y: -2950
+      Z: 4350
     }
     Rotation {
-      Roll: -30.0000057
+      Roll: -30.0000095
     }
     Scale {
       X: 2
@@ -18178,7 +19914,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18221,12 +19957,12 @@ Objects {
   Name: "Cone - Truncated Hollow Wide Thick"
   Transform {
     Location {
-      X: -3600
-      Y: -5750
-      Z: 5800
+      X: -800
+      Y: -2950
+      Z: 4350
     }
     Rotation {
-      Roll: -30.0000057
+      Roll: -30.0000095
     }
     Scale {
       X: 2
@@ -18234,7 +19970,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18277,12 +20013,12 @@ Objects {
   Name: "Cone - Truncated Hollow Wide Thick"
   Transform {
     Location {
-      X: -3600
-      Y: -4950
-      Z: 5800
+      X: -800
+      Y: -2150
+      Z: 4350
     }
     Rotation {
-      Roll: 30.0000095
+      Roll: 30.0000134
     }
     Scale {
       X: 2
@@ -18290,7 +20026,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18333,12 +20069,12 @@ Objects {
   Name: "Cone - Truncated Hollow Wide Thick"
   Transform {
     Location {
-      X: -3950
-      Y: -4950
-      Z: 5800
+      X: -1150
+      Y: -2150
+      Z: 4350
     }
     Rotation {
-      Roll: 30.0000057
+      Roll: 30.0000095
     }
     Scale {
       X: 2
@@ -18346,7 +20082,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18370,1485 +20106,6 @@ Objects {
   CoreMesh {
     MeshAsset {
       Id: 4799708168769429942
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 9655529455986846777
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: -3150
-      Y: -5350
-      Z: 5950
-    }
-    Rotation {
-    }
-    Scale {
-      X: 3
-      Y: 2
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 529189327273806845
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 5154874906664414584
-  Name: "Sci-fi Panel 1x4m Corner-cut"
-  Transform {
-    Location {
-      X: -4950
-      Y: -5900
-      Z: 5450
-    }
-    Rotation {
-      Pitch: -1.36603776e-05
-      Yaw: 88.9999771
-      Roll: 1.3660374e-05
-    }
-    Scale {
-      X: 2
-      Y: 7
-      Z: 8
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 11086638343974735238
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8661615798799767788
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 6783894615121165825
-  Name: "Sci-fi Panel 1x4m Corner-cut"
-  Transform {
-    Location {
-      X: -4950
-      Y: -4850
-      Z: 5450
-    }
-    Rotation {
-      Pitch: -1.36603776e-05
-      Yaw: -88.9999924
-      Roll: 180
-    }
-    Scale {
-      X: 2
-      Y: 7
-      Z: 8
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 11086638343974735238
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8661615798799767788
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 14780843891415667454
-  Name: "Ellipsoid - Truncated Hollow"
-  Transform {
-    Location {
-      X: -2550
-      Y: -5350
-      Z: 5450
-    }
-    Rotation {
-      Pitch: 90
-      Roll: 90.0000076
-    }
-    Scale {
-      X: 7
-      Y: 7
-      Z: 8
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 11086638343974735238
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4939346654724570447
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 1781041315644559204
-  Name: "Cone - Truncated Hollow Wide"
-  Transform {
-    Location {
-      X: -2550
-      Y: -5350
-      Z: 5450
-    }
-    Rotation {
-      Pitch: 90
-      Roll: -179.999985
-    }
-    Scale {
-      X: 10
-      Y: 13
-      Z: 40
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 8295722771588664707
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 7744075857191147083
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 5581686537746311323
-  Name: "Cone - Truncated Hollow Wide Thick"
-  Transform {
-    Location {
-      X: -2500
-      Y: -5350
-      Z: 5450
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 10
-      Y: 13
-      Z: 80
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 8295722771588664707
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4799708168769429942
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 5589393078653968057
-  Name: "Cone - Truncated"
-  Transform {
-    Location {
-      X: -6500
-      Y: -5350
-      Z: 5450
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 8
-      Y: 10
-      Z: 10
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 8295722771588664707
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11930032949537826363
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 6772405809832277476
-  Name: "Sci-fi Base Floor 03 4m"
-  Transform {
-    Location {
-      X: -3950
-      Y: 2300
-      Z: 1300
-    }
-    Rotation {
-    }
-    Scale {
-      X: 6
-      Y: 6
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8125088729252019753
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 12098290233399611311
-  Name: "Terrain"
-  Transform {
-    Location {
-      Z: 50
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Terrain {
-    Material {
-      Id: 14358757294737118240
-    }
-    VoxelSize: 75
-    OctreeDepth: 5
-    GeneratorID: "DEPRECATED"
-  }
-}
-Objects {
-  Id: 3572154995958929206
-  Name: "Sci-fi Ship Nacelle 01"
-  Transform {
-    Location {
-      X: -500
-      Y: -5250
-      Z: 5900
-    }
-    Rotation {
-      Yaw: -179.999985
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13486718312674240514
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 2749628316299335745
-  Name: "Sci-fi Ship Nacelle 01"
-  Transform {
-    Location {
-      X: -500
-      Y: -5350
-      Z: 5900
-    }
-    Rotation {
-      Yaw: 180
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13486718312674240514
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 2270296949262197550
-  Name: "Sci-fi Ship Nacelle 02"
-  Transform {
-    Location {
-      X: -2400
-      Y: -4750
-      Z: 5450
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 1678978340045821419
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 7539244345933408256
-  Name: "Sci-fi Ship Nacelle 02"
-  Transform {
-    Location {
-      X: -2350
-      Y: -5900
-      Z: 5450
-    }
-    Rotation {
-      Yaw: 9.00001
-      Roll: -179.999985
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 1678978340045821419
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 11033758194270456412
-  Name: "Sci-fi Ship Cockpit Canopy 01"
-  Transform {
-    Location {
-      X: -2700
-      Y: -6050
-      Z: 5450
-    }
-    Rotation {
-      Yaw: 180
-      Roll: 90
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 5525156053417254110
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 12525992028611129111
-  Name: "Sci-fi Ship Nacelle 02"
-  Transform {
-    Location {
-      X: -2550
-      Y: -5900
-      Z: 5450
-    }
-    Rotation {
-      Yaw: 9
-      Roll: 180
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 1678978340045821419
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 7734583272920557014
-  Name: "Sci-fi Ship Cockpit Canopy 01"
-  Transform {
-    Location {
-      X: -2400
-      Y: -6050
-      Z: 5450
-    }
-    Rotation {
-      Roll: -90
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 5525156053417254110
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 6386769624731898994
-  Name: "Sci-fi Ship Light 01"
-  Transform {
-    Location {
-      X: -2550
-      Y: -5950
-      Z: 5450
-    }
-    Rotation {
-      Yaw: -90
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12465163766505320492
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 15858612235615939116
-  Name: "Sci-fi Ship Light 01"
-  Transform {
-    Location {
-      X: -2550
-      Y: -5950
-      Z: 5450
-    }
-    Rotation {
-      Yaw: -90
-      Roll: -179.999985
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12465163766505320492
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 17055187799111200037
-  Name: "Sci-fi Ship Nacelle 02"
-  Transform {
-    Location {
-      X: -2600
-      Y: -4750
-      Z: 5450
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 1678978340045821419
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 15437277954206597956
-  Name: "Sci-fi Ship Nacelle 03"
-  Transform {
-    Location {
-      X: -7050
-      Y: -5350
-      Z: 5350
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8936483106303992826
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 12941749171880288814
-  Name: "Sci-fi Ship Light 02"
-  Transform {
-    Location {
-      X: -6350
-      Y: -5350
-      Z: 5800
-    }
-    Rotation {
-      Yaw: 180
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4940914485142911592
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 12030332366279829980
-  Name: "Sci-fi Ship Nacelle 02"
-  Transform {
-    Location {
-      X: -7150
-      Y: -5500
-      Z: 5450
-    }
-    Rotation {
-      Yaw: 180
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 1678978340045821419
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 16868028031278652290
-  Name: "Sci-fi Ship Nacelle 02"
-  Transform {
-    Location {
-      X: -7150
-      Y: -5200
-      Z: 5450
-    }
-    Rotation {
-      Pitch: 180
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 1678978340045821419
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 11892580045490192914
-  Name: "Sci-fi Ship Cockpit Canopy 02"
-  Transform {
-    Location {
-      X: -6950
-      Y: -5350
-      Z: 5300
-    }
-    Rotation {
-      Yaw: -179.999985
-      Roll: 180
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 15792047616889267381
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 9766897223197160666
-  Name: "Sci-fi Ship Cockpit Canopy 02"
-  Transform {
-    Location {
-      X: -6950
-      Y: -5350
-      Z: 5600
-    }
-    Rotation {
-      Yaw: 180
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 15792047616889267381
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 164096715332144626
-  Name: "Sci-fi Ship Engine 01"
-  Transform {
-    Location {
-      X: -750
-      Y: -5350
-      Z: 5450
-    }
-    Rotation {
-    }
-    Scale {
-      X: 5
-      Y: 5
-      Z: 5
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6789604014209716330
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 3001413172434829997
-  Name: "Sci-fi Ship Nacelle 02"
-  Transform {
-    Location {
-      X: -550
-      Y: -6000
-      Z: 5450
-    }
-    Rotation {
-      Roll: 180
-    }
-    Scale {
-      X: 1
-      Y: 2
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 1678978340045821419
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 443467123339003116
-  Name: "Sci-fi Ship Cockpit Back 03"
-  Transform {
-    Location {
-      X: -2950
-      Y: -5400
-      Z: 6150
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 9778899347684737374
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 15600163310697923900
-  Name: "Sci-fi Ship Cockpit Back 03"
-  Transform {
-    Location {
-      X: -2800
-      Y: -5400
-      Z: 6150
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 9778899347684737374
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 16959846108992945814
-  Name: "Sci-fi Ship Cockpit Back 03"
-  Transform {
-    Location {
-      X: -2900
-      Y: -5300
-      Z: 6150
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 9778899347684737374
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -19868,9 +20125,8 @@ Objects {
   Name: "Sci-fi Ship Cockpit Back 03"
   Transform {
     Location {
-      X: -2800
-      Y: -5300
-      Z: 6150
+      Y: -2500
+      Z: 4700
     }
     Rotation {
     }
@@ -19880,7 +20136,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19915,9 +20171,8 @@ Objects {
   Name: "Sci-fi Ship Cockpit Back 03"
   Transform {
     Location {
-      X: -2800
-      Y: -5350
-      Z: 6200
+      Y: -2550
+      Z: 4750
     }
     Rotation {
     }
@@ -19927,7 +20182,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19962,9 +20217,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5550
-      Z: 6000
+      X: 350
+      Y: -2750
+      Z: 4550
     }
     Rotation {
       Roll: -179.999954
@@ -19975,7 +20230,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20010,12 +20265,12 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5500
-      Z: 6050
+      X: 350
+      Y: -2700
+      Z: 4600
     }
     Rotation {
-      Roll: -179.999969
+      Roll: -179.999954
     }
     Scale {
       X: 1
@@ -20023,7 +20278,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20058,12 +20313,12 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5450
-      Z: 6100
+      X: 350
+      Y: -2650
+      Z: 4650
     }
     Rotation {
-      Roll: -179.999985
+      Roll: -179.999969
     }
     Scale {
       X: 1
@@ -20071,7 +20326,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20106,12 +20361,12 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5400
-      Z: 6150
+      X: 350
+      Y: -2600
+      Z: 4700
     }
     Rotation {
-      Roll: 180
+      Roll: -179.999985
     }
     Scale {
       X: 1
@@ -20119,7 +20374,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20154,9 +20409,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5300
-      Z: 6150
+      X: 350
+      Y: -2500
+      Z: 4700
     }
     Rotation {
     }
@@ -20166,7 +20421,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20201,9 +20456,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5250
-      Z: 6100
+      X: 350
+      Y: -2450
+      Z: 4650
     }
     Rotation {
     }
@@ -20213,7 +20468,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20248,9 +20503,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5200
-      Z: 6050
+      X: 350
+      Y: -2400
+      Z: 4600
     }
     Rotation {
     }
@@ -20260,7 +20515,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20295,9 +20550,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5150
-      Z: 6000
+      X: 350
+      Y: -2350
+      Z: 4550
     }
     Rotation {
     }
@@ -20307,7 +20562,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20342,12 +20597,12 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5600
-      Z: 5950
+      X: 350
+      Y: -2800
+      Z: 4500
     }
     Rotation {
-      Roll: 180
+      Roll: -179.999985
     }
     Scale {
       X: 1
@@ -20355,7 +20610,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20390,9 +20645,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -2450
-      Y: -5100
-      Z: 5950
+      X: 350
+      Y: -2300
+      Z: 4500
     }
     Rotation {
     }
@@ -20402,7 +20657,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20437,9 +20692,9 @@ Objects {
   Name: "Sci-fi Ship Cockpit Back 03"
   Transform {
     Location {
-      X: -2950
-      Y: -5350
-      Z: 6200
+      X: -150
+      Y: -2550
+      Z: 4750
     }
     Rotation {
     }
@@ -20449,7 +20704,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20484,13 +20739,13 @@ Objects {
   Name: "Sci-fi Ship Cockpit Canopy 01"
   Transform {
     Location {
-      X: -2700
-      Y: -5650
-      Z: 5950
+      X: 100
+      Y: -2850
+      Z: 4500
     }
     Rotation {
-      Yaw: 180
-      Roll: 90
+      Yaw: -179.999985
+      Roll: 89.9999847
     }
     Scale {
       X: 1
@@ -20498,7 +20753,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20533,9 +20788,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 03"
   Transform {
     Location {
-      X: -2850
-      Y: -5350
-      Z: 5950
+      X: -50
+      Y: -2550
+      Z: 4500
     }
     Rotation {
     }
@@ -20545,7 +20800,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20580,9 +20835,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 03"
   Transform {
     Location {
-      X: -2700
-      Y: -5350
-      Z: 6200
+      X: 100
+      Y: -2550
+      Z: 4750
     }
     Rotation {
     }
@@ -20592,7 +20847,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20627,9 +20882,9 @@ Objects {
   Name: "Sci-fi Ship Cockpit Back 02"
   Transform {
     Location {
-      X: -2950
-      Y: -5350
-      Z: 6150
+      X: -150
+      Y: -2550
+      Z: 4700
     }
     Rotation {
     }
@@ -20639,7 +20894,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20674,13 +20929,14 @@ Objects {
   Name: "Sci-fi Ship Cockpit Canopy 01"
   Transform {
     Location {
-      X: -2700
-      Y: -5050
-      Z: 5950
+      X: 100
+      Y: -2250
+      Z: 4500
     }
     Rotation {
-      Pitch: 180
-      Roll: 90
+      Pitch: -1.36603776e-05
+      Yaw: 180
+      Roll: -89.9999771
     }
     Scale {
       X: 1
@@ -20688,7 +20944,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20723,9 +20979,9 @@ Objects {
   Name: "Sci-fi Ship Fuselage 01"
   Transform {
     Location {
-      X: -3200
-      Y: -5350
-      Z: 6000
+      X: -400
+      Y: -2550
+      Z: 4550
     }
     Rotation {
     }
@@ -20735,7 +20991,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20770,13 +21026,14 @@ Objects {
   Name: "Sci-fi Ship Cockpit Canopy 01"
   Transform {
     Location {
-      X: -2700
-      Y: -4600
-      Z: 5450
+      X: 100
+      Y: -1800
+      Z: 4000
     }
     Rotation {
-      Pitch: 180
-      Roll: 89.9999924
+      Pitch: -1.36603776e-05
+      Yaw: 180
+      Roll: -89.9999924
     }
     Scale {
       X: 1
@@ -20784,7 +21041,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20819,12 +21076,12 @@ Objects {
   Name: "Sci-fi Ship Cockpit Canopy 01"
   Transform {
     Location {
-      X: -2400
-      Y: -4600
-      Z: 5450
+      X: 400
+      Y: -1800
+      Z: 4000
     }
     Rotation {
-      Roll: 90
+      Roll: 89.9999924
     }
     Scale {
       X: 1
@@ -20832,7 +21089,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20867,13 +21124,13 @@ Objects {
   Name: "Sci-fi Ship Light 01"
   Transform {
     Location {
-      X: -2550
-      Y: -4750
-      Z: 5450
+      X: 250
+      Y: -1950
+      Z: 4000
     }
     Rotation {
-      Yaw: 89.9999924
-      Roll: 180
+      Yaw: 89.9999771
+      Roll: -179.999985
     }
     Scale {
       X: 1
@@ -20881,7 +21138,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20916,12 +21173,12 @@ Objects {
   Name: "Sci-fi Ship Light 01"
   Transform {
     Location {
-      X: -2550
-      Y: -4750
-      Z: 5450
+      X: 250
+      Y: -1950
+      Z: 4000
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999924
     }
     Scale {
       X: 1
@@ -20929,7 +21186,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20964,9 +21221,9 @@ Objects {
   Name: "Sci-fi Ship Nacelle 02"
   Transform {
     Location {
-      X: -550
-      Y: -4700
-      Z: 5450
+      X: 2250
+      Y: -1900
+      Z: 4000
     }
     Rotation {
     }
@@ -20976,7 +21233,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -21011,9 +21268,9 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -5900
-      Z: 5450
+      X: 2350
+      Y: -3100
+      Z: 4000
     }
     Rotation {
     }
@@ -21023,7 +21280,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -21058,9 +21315,9 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -6050
-      Z: 5450
+      X: 2350
+      Y: -3250
+      Z: 4000
     }
     Rotation {
     }
@@ -21070,7 +21327,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -21105,12 +21362,12 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -5900
-      Z: 5450
+      X: 2350
+      Y: -3100
+      Z: 4000
     }
     Rotation {
-      Roll: -179.999985
+      Roll: -179.999969
     }
     Scale {
       X: 2
@@ -21118,7 +21375,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -21153,12 +21410,12 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -6050
-      Z: 5450
+      X: 2350
+      Y: -3250
+      Z: 4000
     }
     Rotation {
-      Roll: -179.999969
+      Roll: -179.999954
     }
     Scale {
       X: 2
@@ -21166,7 +21423,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -21201,12 +21458,12 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -4800
-      Z: 5450
+      X: 2350
+      Y: -2000
+      Z: 4000
     }
     Rotation {
-      Roll: -179.999985
+      Roll: -179.999969
     }
     Scale {
       X: 2
@@ -21214,7 +21471,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -21249,12 +21506,12 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -4650
-      Z: 5450
+      X: 2350
+      Y: -1850
+      Z: 4000
     }
     Rotation {
-      Roll: 180
+      Roll: -179.999985
     }
     Scale {
       X: 2
@@ -21262,7 +21519,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -21297,9 +21554,9 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -4650
-      Z: 5450
+      X: 2350
+      Y: -1850
+      Z: 4000
     }
     Rotation {
     }
@@ -21309,7 +21566,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -21344,9 +21601,9 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -600
-      Y: -6000
-      Z: 5450
+      X: 2200
+      Y: -3200
+      Z: 4000
     }
     Rotation {
     }
@@ -21356,7 +21613,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21399,9 +21656,9 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -600
-      Y: -4700
-      Z: 5450
+      X: 2200
+      Y: -1900
+      Z: 4000
     }
     Rotation {
     }
@@ -21411,7 +21668,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21454,9 +21711,9 @@ Objects {
   Name: "Sci-fi Ship Engine 03"
   Transform {
     Location {
-      X: -450
-      Y: -4800
-      Z: 5450
+      X: 2350
+      Y: -2000
+      Z: 4000
     }
     Rotation {
     }
@@ -21466,7 +21723,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -21501,9 +21758,9 @@ Objects {
   Name: "Cone - Truncated Wide"
   Transform {
     Location {
-      X: -750
-      Y: -5350
-      Z: 5450
+      X: 2050
+      Y: -2550
+      Z: 4000
     }
     Rotation {
       Pitch: 90
@@ -21514,7 +21771,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21557,12 +21814,12 @@ Objects {
   Name: "Cone - Truncated Hollow Wide Thick"
   Transform {
     Location {
-      X: -3950
-      Y: -5750
-      Z: 5800
+      X: -1150
+      Y: -2950
+      Z: 4350
     }
     Rotation {
-      Roll: -30
+      Roll: -30.0000057
     }
     Scale {
       X: 2
@@ -21570,7 +21827,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21613,12 +21870,12 @@ Objects {
   Name: "Cone - Truncated Hollow Wide Thick"
   Transform {
     Location {
-      X: -3600
-      Y: -5750
-      Z: 5800
+      X: -800
+      Y: -2950
+      Z: 4350
     }
     Rotation {
-      Roll: -30
+      Roll: -30.0000057
     }
     Scale {
       X: 2
@@ -21626,7 +21883,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21669,12 +21926,12 @@ Objects {
   Name: "Cone - Truncated Hollow Wide Thick"
   Transform {
     Location {
-      X: -3600
-      Y: -4950
-      Z: 5800
+      X: -800
+      Y: -2150
+      Z: 4350
     }
     Rotation {
-      Roll: 30.0000057
+      Roll: 30.0000095
     }
     Scale {
       X: 2
@@ -21682,7 +21939,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21725,12 +21982,12 @@ Objects {
   Name: "Cone - Truncated Hollow Wide Thick"
   Transform {
     Location {
-      X: -3950
-      Y: -4950
-      Z: 5800
+      X: -1150
+      Y: -2150
+      Z: 4350
     }
     Rotation {
-      Roll: 30
+      Roll: 30.0000057
     }
     Scale {
       X: 2
@@ -21738,7 +21995,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21781,9 +22038,9 @@ Objects {
   Name: "Sphere"
   Transform {
     Location {
-      X: -3150
-      Y: -5350
-      Z: 5950
+      X: -350
+      Y: -2550
+      Z: 4500
     }
     Rotation {
     }
@@ -21793,7 +22050,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -21828,14 +22085,14 @@ Objects {
   Name: "Sci-fi Panel 1x4m Corner-cut"
   Transform {
     Location {
-      X: -4950
-      Y: -5900
-      Z: 5450
+      X: -2150
+      Y: -3100
+      Z: 4000
     }
     Rotation {
-      Pitch: 180
-      Yaw: -91
-      Roll: 180
+      Pitch: -1.36603776e-05
+      Yaw: 88.9999771
+      Roll: 1.3660374e-05
     }
     Scale {
       X: 2
@@ -21843,7 +22100,7 @@ Objects {
       Z: 8
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21886,13 +22143,14 @@ Objects {
   Name: "Sci-fi Panel 1x4m Corner-cut"
   Transform {
     Location {
-      X: -4950
-      Y: -4850
-      Z: 5450
+      X: -2150
+      Y: -2050
+      Z: 4000
     }
     Rotation {
-      Pitch: 180
-      Yaw: 91
+      Pitch: -1.36603776e-05
+      Yaw: -88.9999924
+      Roll: 180
     }
     Scale {
       X: 2
@@ -21900,7 +22158,7 @@ Objects {
       Z: 8
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21943,13 +22201,13 @@ Objects {
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
-      X: -2550
-      Y: -5350
-      Z: 5450
+      X: 250
+      Y: -2550
+      Z: 4000
     }
     Rotation {
       Pitch: 90
-      Roll: 90
+      Roll: 90.0000076
     }
     Scale {
       X: 7
@@ -21957,7 +22215,7 @@ Objects {
       Z: 8
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22000,13 +22258,13 @@ Objects {
   Name: "Cone - Truncated Hollow Wide"
   Transform {
     Location {
-      X: -2550
-      Y: -5350
-      Z: 5450
+      X: 250
+      Y: -2550
+      Z: 4000
     }
     Rotation {
       Pitch: 90
-      Roll: 180
+      Roll: -179.999985
     }
     Scale {
       X: 10
@@ -22014,7 +22272,7 @@ Objects {
       Z: 40
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22053,153 +22311,13 @@ Objects {
   }
 }
 Objects {
-  Id: 17971054361903483932
-  Name: "UI Progress Bar"
-  Transform {
-    Location {
-      X: -6700
-      Y: 5700
-      Z: 1650
-    }
-    Rotation {
-      Yaw: 10.0000143
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Control {
-    Width: 200
-    Height: 60
-    RenderTransformPivot {
-      Anchor {
-        Value: "mc:euianchor:middlecenter"
-      }
-    }
-    StatBar {
-      Color {
-        R: 1
-        G: 1
-        B: 1
-        A: 1
-      }
-      BackgroundColor {
-        R: 0.5
-        G: 0.5
-        B: 0.5
-        A: 1
-      }
-    }
-    AnchorLayout {
-      SelfAnchor {
-        Anchor {
-          Value: "mc:euianchor:topleft"
-        }
-      }
-      TargetAnchor {
-        Anchor {
-          Value: "mc:euianchor:topleft"
-        }
-      }
-    }
-  }
-}
-Objects {
-  Id: 14469096338472747305
-  Name: "UI Text Box"
-  Transform {
-    Location {
-      X: -6900
-      Y: 5600
-      Z: 1700
-    }
-    Rotation {
-      Yaw: 10.0000143
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Control {
-    Width: 200
-    Height: 60
-    RenderTransformPivot {
-      Anchor {
-        Value: "mc:euianchor:middlecenter"
-      }
-    }
-    Text {
-      Label: "Text"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-        A: 1
-      }
-      Size: 20
-      Justification {
-        Value: "mc:etextjustify:left"
-      }
-      AutoWrapText: true
-      Font {
-        Id: 841534158063459245
-      }
-      VerticalJustification {
-        Value: "mc:everticaljustification:top"
-      }
-    }
-    AnchorLayout {
-      SelfAnchor {
-        Anchor {
-          Value: "mc:euianchor:topleft"
-        }
-      }
-      TargetAnchor {
-        Anchor {
-          Value: "mc:euianchor:topleft"
-        }
-      }
-    }
-  }
-}
-Objects {
   Id: 10977786187141630888
   Name: "Cone - Truncated Hollow Wide Thick"
   Transform {
     Location {
-      X: -2500
-      Y: -5350
-      Z: 5450
+      X: 300
+      Y: -2550
+      Z: 4000
     }
     Rotation {
       Pitch: 90
@@ -22210,7 +22328,7 @@ Objects {
       Z: 80
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22253,9 +22371,9 @@ Objects {
   Name: "Cone - Truncated"
   Transform {
     Location {
-      X: -6500
-      Y: -5350
-      Z: 5450
+      X: -3700
+      Y: -2550
+      Z: 4000
     }
     Rotation {
       Pitch: 90
@@ -22266,7 +22384,7 @@ Objects {
       Z: 10
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4286672273751396438
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22301,297 +22419,6 @@ Objects {
         LinearDamping: 0.01
       }
       BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 14713340454944924967
-  Name: "Third Person Camera Settings"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 4226120016796708080
-  ChildIds: 724324913679364851
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 724324913679364851
-  Name: "Client Context"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14713340454944924967
-  ChildIds: 3567959178173361743
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  NetworkContext {
-  }
-}
-Objects {
-  Id: 3567959178173361743
-  Name: "Third Person Camera"
-  Transform {
-    Location {
-      Z: 500
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 724324913679364851
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Camera {
-    UseAsDefault: true
-    AttachToLocalPlayer: true
-    InitialDistance: 400
-    MinDistance: 300
-    MaxDistance: 600
-    PositionOffset {
-      Y: 60
-    }
-    RotationOffset {
-    }
-    FieldOfView: 90
-    ViewWidth: 1200
-    RotationMode {
-      Value: "mc:erotationmode:lookangle"
-    }
-    MinPitch: -89
-    MaxPitch: 89
-    DoesPositionOffsetSpring: true
-  }
-}
-Objects {
-  Id: 4226120016796708080
-  Name: "Third Person Player Settings"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14713340454944924967
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Settings {
-    IsDefault: true
-    PlayerMovementSettings {
-      WalkSpeed: 640
-      MaxAcceleration: 1800
-      WalkableFloorAngle: 44
-      JumpMaxCount: 1
-      JumpVelocity: 900
-      GroundFriction: 8
-      GravityScale: 1.9
-      MaxSwimSpeed: 420
-      Buoyancy: 1
-      TouchForceFactor: 1
-      BrakingDecelerationFlying: 600
-      MaxFlightSpeed: 600
-      MovementControlMode {
-        Value: "mc:emovementcontrolmode:lookrelative"
-      }
-      LookControlMode {
-        Value: "mc:elookcontrolmode:relative"
-      }
-      FacingMode {
-        Value: "mc:efacingmode:faceaimwhenactive"
-      }
-      DefaultRotationRate: 540
-      SlideRotationRate: 20
-      LookAtCursorProjectionPlane {
-        Value: "mc:eprojectionplane:xy"
-      }
-      MountedMaxAcceleration: 1800
-      MountedWalkSpeed: 960
-      MountedJumpMaxCount: 1
-      MountedJumpVelocity: 900
-      HeadVisibleToSelf: true
-      IsSlideEnabled: true
-      IsCrouchEnabled: true
-      IsJumpEnabled: true
-      CanMoveForward: true
-      CanMoveBackward: true
-      CanMoveLeft: true
-      CanMoveRight: true
-      AbilityAimMode {
-        Value: "mc:eabilityaimmode:viewrelative"
-      }
-      AppearanceChannelingTime: 2
-      MountChannelingTime: 2
-      FlipOnMultiJump: true
-      CanMoveUp: true
-      CanMoveDown: true
-      IsMountEnabled: true
-      MaxHitpoints: 100
-    }
-  }
-}
-Objects {
-  Id: 16813558807825262224
-  Name: "Spawn Point"
-  Transform {
-    Location {
-      X: -2800
-      Y: -2800
-      Z: 1450
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  PlayerSpawnPoint {
-    TeamInt: 1
-    PlayerScaleMultiplier: 1
-  }
-}
-Objects {
-  Id: 7367735074338159388
-  Name: "Game Settings"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Settings {
-    IsDefault: true
-    GameSettings {
-      RagdollOnDeath: true
-      ChatMode {
-        Value: "mc:echatmode:teamandall"
-      }
-      ChatSettings {
-        ChatMode {
-        }
-        ChatPosition {
-          X: 40
-        }
-        ChatSize {
-          X: 450
-          Y: 400
-        }
-        ChatHorizontalAlignment {
-          Value: "mc:ecorehorizontalalign:left"
-        }
-        ChatVerticalAlignment {
-          Value: "mc:ecorehorizontalalign:center"
-        }
-      }
-      PhysicsSettings {
-        MinContactOffset: 2
-        MaxContactOffset: 8
-      }
-      RelevanceSettings {
-        key: "decal"
-        value {
-          LowDistance: 4500
-          MediumDistance: 7000
-          HighDistance: 9000
-        }
-      }
-      RelevanceSettings {
-        key: "vfx"
-        value {
-          LowDistance: 4500
-          MediumDistance: 7000
-          HighDistance: 9000
-        }
-      }
     }
   }
 }

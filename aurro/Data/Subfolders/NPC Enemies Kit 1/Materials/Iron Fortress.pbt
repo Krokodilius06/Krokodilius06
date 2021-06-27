@@ -2,7 +2,7 @@ Assets {
   Id: 15358148717762499320
   Name: "Iron Fortress"
   PlatformAssetType: 13
-  SerializationVersion: 85
+  SerializationVersion: 89
   CustomMaterialAsset {
     BaseMaterialId: 11519736006564138369
     ParameterOverrides {

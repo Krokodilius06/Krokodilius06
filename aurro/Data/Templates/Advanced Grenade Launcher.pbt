@@ -1726,5 +1726,5 @@ Assets {
       AssetId: "Advanced_Grenade_Launcher"
     }
   }
-  SerializationVersion: 85
+  SerializationVersion: 89
 }

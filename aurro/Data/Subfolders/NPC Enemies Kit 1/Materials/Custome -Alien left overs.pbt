@@ -2,7 +2,7 @@ Assets {
   Id: 7081070407930013820
   Name: "Custome -Alien left overs"
   PlatformAssetType: 13
-  SerializationVersion: 85
+  SerializationVersion: 89
   CustomMaterialAsset {
     BaseMaterialId: 13718303343937186236
     ParameterOverrides {

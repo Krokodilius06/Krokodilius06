@@ -2,7 +2,7 @@ Assets {
   Id: 9992449226624151223
   Name: "Urban Car Truck Lifted 01 - Car Paint White 01"
   PlatformAssetType: 13
-  SerializationVersion: 85
+  SerializationVersion: 89
   CustomMaterialAsset {
     BaseMaterialId: 26202327341816384
     ParameterOverrides {

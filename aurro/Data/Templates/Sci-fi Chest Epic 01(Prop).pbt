@@ -265,5 +265,5 @@ Assets {
       AssetId: "Sci-fi_Chest_Epic_01_Prop_"
     }
   }
-  SerializationVersion: 85
+  SerializationVersion: 89
 }

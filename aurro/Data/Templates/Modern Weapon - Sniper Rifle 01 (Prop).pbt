@@ -520,5 +520,5 @@ Assets {
       AssetId: "Modern_Weapon_-_Sniper_Rifle_01"
     }
   }
-  SerializationVersion: 85
+  SerializationVersion: 89
 }

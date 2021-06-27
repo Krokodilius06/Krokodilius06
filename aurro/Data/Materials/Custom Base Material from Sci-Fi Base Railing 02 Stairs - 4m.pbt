@@ -2,7 +2,7 @@ Assets {
   Id: 15452490618457459567
   Name: "Custom Base Material from Sci-Fi Base Railing 02 Stairs - 4m"
   PlatformAssetType: 13
-  SerializationVersion: 85
+  SerializationVersion: 89
   CustomMaterialAsset {
     BaseMaterialId: 87949888948695080
     ParameterOverrides {
